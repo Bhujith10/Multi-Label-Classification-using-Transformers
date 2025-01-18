@@ -34,21 +34,23 @@ The `dataset` folder contains a CSV file for a multi-label classification datase
 
 This repository includes several Jupyter notebooks, each demonstrating a different technique:
 
-1. **Fine-tuning Transformers with a Classification Head**  
-   - **[`notebooks/Finetuning_transformers_with_classification_head_for_multi_label_classification.ipynb`](notebooks/Finetuning_transformers_with_classification_head_for_multi_label_classification.ipynb)**  
-   Covers the first two techniques:  
-     - Classifier using BERT embeddings  
-     - Fine-tuning a transformer with a classification head
+1. **Classifier using BERT embeddings**
+   - **[`notebooks/Classifier_using_BERT_hidden_states_for_multi_label_classification.ipynb`](notebooks/Classifier_using_BERT_hidden_states_for_multi_label_classification.ipynb)**
+   Covers the first technique of building classifier using BERT embeddings
 
-2. **SetFit Fine-tuning**  
+2. **Fine-tuning Transformers with a Classification Head**  
+   - **[`notebooks/Finetuning_transformers_with_classification_head_for_multi_label_classification.ipynb`](notebooks/Finetuning_transformers_with_classification_head_for_multi_label_classification.ipynb)**  
+   Covers the second technique of fine-tuning a transformer with a classification head
+
+3. **SetFit Fine-tuning**  
    - **[`notebooks/SetFit_finetuning_of_transformers_for_multi_label_classification.ipynb`](notebooks/SetFit_finetuning_of_transformers_for_multi_label_classification.ipynb)**  
    Demonstrates the third technique using the SetFit framework for multi-label classification.
 
-3. **Prompting GPT Models**  
+4. **Prompting GPT Models**  
    - **[`notebooks/Multi_Label_classification_using_GPT_models.ipynb`](notebooks/Multi_Label_classification_using_GPT_models.ipynb)**  
    Showcases how to leverage GPT models and other open source LLMs (decoder-only) via prompting, corresponding to technique four.
 
-4. **Instruction Tuning Open-Source LLMs**  
+5. **Instruction Tuning Open-Source LLMs**  
    - **[`notebooks/Instruction_tuning_transformers_for_multi_label_classification.ipynb`](notebooks/Instruction_tuning_transformers_for_multi_label_classification.ipynb)**  
    Demonstrates how to instruction-tune open-source decoder-only LLMs for multi-label classification, which is the fifth technique.
 
