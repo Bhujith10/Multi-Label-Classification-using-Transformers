@@ -1,0 +1,9324 @@
+generated_texts_qwen_7b
+"[source]
+
+Assistant
+['Mathematics']"
+"ioc
+assistant
+['Physics']"
+"phanMouseClicked
+assistant
+['Physics', 'Mathematics']"
+"assistant
+['Physics']"
+"rouponster
+assistant
+['Mathematics']"
+"assistant
+['Quantitative Biology']"
+"ajs
+assistant
+['Computer Science']"
+"amins
+assistant
+['Mathematics']"
+"semblies
+assistant
+
+    ['Computer Science']"
+"assistant
+['Physics']"
+"ardownominator
+assistant
+['Computer Science']"
+"#ab
+assistant
+['Statistics']"
+"assistant
+['Computer Science', 'Statistics']"
+"amins
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Computer Science']"
+"kul
+assistant
+['Computer Science', 'Mathematics']"
+"phanMouseClicked
+assistant
+['Physics']"
+"assistant
+['Quantitative Biology']"
+"#ab
+assistant
+['Mathematics']"
+"ardownistrator
+
+    ['Computer Science']"
+"[source]
+
+Given the title and abstract of a research paper, classify it into one or more of the following subjects based on its content: ['Computer Science', 'Physics', 'Mathematics', 'Statistics', 'Quantitative Biology', 'Quantitative Finance'].
+
+RETURN ONLY A LIST AND NOTHING ELSE
+"
+"ioc
+assistant
+['Mathematics']"
+"roupon
+assistant
+['Statistics']"
+"assistant
+
+    ['Physics']"
+"OTAL
+assistant
+['Computer Science']"
+"letics
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"[source]
+
+Assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"[source]
+
+Given the title and abstract of a research paper, classify it into one or more of the following subjects based on its content: ['Computer Science', 'Physics', 'Mathematics', 'Statistics', 'Quantitative Biology', 'Quantitative Finance'].
+
+RETURN ONLY A LIST AND NOTHING ELSE
+"
+"ajs
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Physics']"
+"ioc
+assistant
+['Quantitative Biology']"
+"assistant
+['Computer Science']"
+"ioc
+assistant
+['Mathematics']"
+"#abassistant
+
+    ['Physics']
+    "
+phan
+semblies' and 'Mathematics'.
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science', 'Statistics']"
+"letics'
+['Mathematics']"
+"amins
+assistant
+['Statistics']"
+"assistant
+['Physics']"
+".yang
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"amins
+assistant
+['Computer Science', 'Statistics']"
+"kul
+user
+Title: Deep Learning for Predicting Protein-Protein Interactions from Protein Sequences,
+Abstract: Understanding how proteins interact with each other is crucial for
+understanding the functioning of living organisms. In this paper, we use deep
+learning to predict whether two proteins will interact based on their amino
+acid sequences. We propose a novel neural network architecture called
+InteractionNet that can learn protein interaction features directly from raw
+protein sequence data. Our model achieves state-of-the-art performance on the
+PPI prediction task using only sequence information, outperforming previous
+methods that require additional feature engineering. Our results suggest that
+deep learning approaches have great potential for predicting protein-protein
+interactions and understanding protein function."
+"ardownominator
+assistant
+['Computer Science']"
+"phan
+assistant
+['Mathematics']"
+" matchups
+
+Assistant
+['Quantitative Biology']"
+"assistant
+['Computer Science']"
+"ioc
+assistant
+['Physics']"
+"semblies
+
+Assistant
+['Mathematics']"
+"ioc
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"UpperCase
+assistant
+['Quantitative Biology']"
+" matchups
+
+Assistant
+['Statistics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ừa
+user
+Title: On the existence of the solution to a nonlinear fractional stochastic differential equation via a fixed point method,
+Abstract: We prove the existence and uniqueness of the solution to a nonlinear
+fractional stochastic differential equation in Hilbert space. Our approach is
+based on the Banach contraction principle and a new version of the fractional
+It\^o formula."
+"ioc
+assistant
+['Computer Science']"
+".yang
+assistant
+['Physics']"
+".yang
+assistant
+['Statistics']"
+" matchups
+
+Assistant
+['Mathematics']"
+"assistant
+['Statistics']"
+"semblies
+
+Assistant
+
+    ['Statistics']
+    "
+"amins
+assistant
+
+    ['Physics']"
+"assistant
+['Computer Science']"
+"letics
+"
+"assistant
+['Computer Science']"
+"ừa
+assistant
+['Statistics']"
+"ioc
+assistant
+['Computer Science']"
+"ừa
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"semblies
+
+Assistant
+
+    ['Physics']
+    "
+"ardownominator
+assistant
+['Computer Science', 'Mathematics']"
+"UpperCase
+assistant
+['Computer Science', 'Quantitative Biology']"
+"ardownistrator
+
+Assistant	['Physics']	"
+"semblies
+
+Assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"letics', 'Quantitative Finance']"
+"assistant
+['Computer Science']"
+"ioc
+assistant
+['Computer Science']"
+"semblies
+assistant
+['Mathematics', 'Statistics']"
+"ajs
+assistant
+['Mathematics']"
+"kul
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"ardownominator
+assistant
+['Mathematics']"
+"ardownistrator
+
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+phan
+".yang
+assistant
+['Physics']"
+"kulician
+
+Assistant
+
+    ['Quantitative Biology']
+    "
+" matchups
+assistant
+['Mathematics']"
+".yang
+assistant
+['Physics']"
+"assistant
+['Mathematics', 'Statistics']"
+"semblies
+assistant
+
+    ['Computer Science', 'Quantitative Biology']"
+"assistant
+['Mathematics']"
+"iocp
+
+assistant
+['Computer Science', 'Physics']"
+"ajs
+assistant
+['Physics']"
+"kulician
+
+Assistant
+
+    ['Mathematics']
+    "
+"assistant
+['Computer Science']"
+"letics
+assistant
+['Computer Science']"
+"ừa
+assistant
+['Computer Science']"
+"OTAL
+assistant
+['Mathematics']"
+"assistant
+['Mathematics']"
+"ừa
+assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Physics']"
+"ardownistrator
+
+    ['Computer Science']
+    "
+"assistant
+['Statistics']"
+"UpperCase
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Mathematics']"
+"semblies
+
+Assistant
+
+    ['Computer Science']
+    "
+"assistant
+['Physics']"
+".yang
+assistant
+['Mathematics']"
+"phan
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ừa
+assistant
+['Quantitative Biology']"
+"amins
+assistant
+['Physics']"
+"letics
+assistant
+
+    ['Statistics']"
+"ioc
+assistant
+['Computer Science']"
+"kulician
+assistant
+['Physics']"
+"letics]
+    "
+"assistant
+['Computer Science', 'Mathematics']"
+"ừa
+assistant
+['Computer Science']"
+"#abassistant
+
+    ['Physics']"
+"assistant
+['Computer Science']"
+"#abassistant
+
+    ['Computer Science']
+    "
+"ioc
+assistant
+['Mathematics']"
+"roupon
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"phanMouseClicked
+assistant
+['Computer Science']"
+"rouponstainer
+
+Assistant
+
+    ['Mathematics']
+    "
+"assistant
+['Physics']"
+"ardownominator
+assistant
+
+    ['Computer Science']"
+"OTALI
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"#abassistant
+
+    ['Physics']
+    "
+"amins
+assistant
+['Statistics']"
+"assistant
+['Physics']"
+"rouponstainer
+
+    ['Statistics']
+    "
+"ừa
+assistant
+['Computer Science']"
+"OTAL
+assistant
+['Computer Science', 'Physics']"
+"assistant
+['Computer Science', 'Physics']"
+"phan> Physics
+phan> Mathematics
+phan> Quantitative Finance"
+"ardownominator
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Quantitative Biology']"
+"assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Physics']"
+"#abassistant
+
+    ['Computer Science']
+    "
+"semblies
+
+Assistant
+
+    ['Computer Science', 'Statistics']
+    "
+"assistant
+['Mathematics']"
+"#abassistant
+
+    ['Computer Science', 'Statistics']
+    "
+" matchups
+
+Assistant
+['Physics']"
+"ardownominator
+assistant
+
+    ['Computer Science']"
+"#abassistant
+
+    ['Computer Science', 'Physics']"
+"ioc
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Mathematics', 'Physics']"
+letics']
+"assistant
+['Computer Science', 'Statistics']"
+"UpperCase
+assistant
+['Mathematics']"
+"roupon
+assistant
+['Physics']"
+"ừa
+assistant
+
+    ['Physics']"
+" matchups
+assistant
+['Quantitative Finance']"
+"letics', 'Statistics', 'Quantitative Biology', 'Quantitative Finance']"
+"iocas-tianchi-user
+['Physics']"
+"assistant
+['Computer Science']"
+"ardownominator
+assistant
+
+    ['Computer Science']"
+"[source]
+assistant
+['Computer Science']	"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Physics']"
+"assistant
+['Physics']"
+"OTAL
+assistant
+['Mathematics']"
+"letics
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"phan
+assistant
+['Computer Science', 'Mathematics']"
+"ardownominator
+assistant
+
+    ['Computer Science']"
+"OTAL
+assistant
+['Mathematics']"
+"#abinator
+
+Assistant
+['Physics']"
+".yang
+assistant
+['Mathematics']"
+"assistant
+['Mathematics']"
+"phanassistant
+
+    ['Physics']"
+"#ab
+assistant
+['Mathematics']"
+"assistant
+['Mathematics']"
+"amins
+assistant
+['Physics']"
+"UpperCase
+assistant
+['Statistics']"
+"assistant
+['Computer Science']"
+"letics
+assistant
+
+    ['Computer Science', 'Statistics']"
+" matchups
+
+Assistant
+['Physics']"
+"ajs
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"ừa
+assistant
+['Computer Science', 'Statistics']"
+"ioc
+assistant
+['Physics']"
+"UpperCase
+
+Assistant
+['Computer Science', 'Mathematics']"
+"OTAL
+assistant
+['Computer Science', 'Physics']"
+"assistant
+['Quantitative Biology']"
+"ioc
+assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Computer Science', 'Mathematics']"
+"amins
+
+    ['Computer Science', 'Statistics']"
+".yang
+assistant
+['Computer Science']"
+"OTALI
+assistant
+['Mathematics']"
+"amins
+assistant
+
+    ['Computer Science', 'Physics']"
+".yang
+assistant
+['Computer Science']"
+"assistant
+['Mathematics', 'Statistics']"
+"kulician
+assistant
+['Mathematics']"
+phan
+"ioc
+assistant
+['Mathematics']"
+"amins
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"semblies
+assistant
+
+    ['Computer Science']"
+"rouponster
+assistant
+['Computer Science']"
+"ừaassistant
+['Computer Science']"
+"assistant
+['Physics']"
+"assistant
+['Statistics']"
+"phanonymous
+assistant
+['Computer Science', 'Mathematics']"
+"semblies
+assistant
+
+    ['Computer Science', 'Statistics']"
+"OTAL
+assistant
+['Computer Science']"
+"#abassistant
+
+    ['Physics']
+    "
+"kul
+assistant
+['Physics']"
+"user
+assistant
+['Computer Science']"
+"kulamani
+
+Assistant
+
+    ['Physics']
+    "
+"roupon
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"amins
+assistant
+
+    ['Physics']"
+"kul
+assistant
+['Mathematics']"
+"roupon
+assistant
+['Computer Science', 'Statistics']"
+"amins
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"ardownominator
+assistant
+['Mathematics']"
+"kul
+assistant
+['Computer Science']"
+".yang
+assistant
+['Computer Science', 'Quantitative Biology']"
+"#abassistant
+['Physics']"
+"assistant
+['Physics']"
+"[source]
+
+Assistant
+['Mathematics', 'Physics']"
+"ardownominator
+assistant
+
+['Computer Science']"
+"assistant
+['Statistics']"
+" matchups
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"letics', 'Computer Science']"
+"phan
+assistant
+['Mathematics']"
+"amins
+assistant
+['Computer Science']"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"UpperCase
+assistant
+['Mathematics']"
+"ardownistrator
+
+Assistant
+
+    ['Mathematics']
+    "
+"assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"amins
+assistant
+['Computer Science']"
+"kul
+assistant
+['Computer Science']"
+"OTALIUSER
+
+Assistant
+
+    ['Physics']
+    "
+"ừa
+assistant
+['Mathematics']"
+"amins
+assistant
+
+    ['Computer Science']"
+"assistant
+['Mathematics']"
+"ardownistrator
+
+    ['Computer Science']"
+"assistant
+['Computer Science']"
+"ioc
+assistant
+['Mathematics']"
+"#abassistant
+
+    ['Statistics']
+    "
+"assistant
+['Physics']"
+"semblies
+assistant
+
+    ['Quantitative Biology']"
+"ajs
+assistant
+['Physics']"
+"iocount
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ừa
+user
+Title: Anisotropic diffusion and image denoising,
+Abstract: We present a new method for image denoising based on anisotropic diffusion
+of the image. Our method uses the heat equation with variable conductivity to
+smooth the image while preserving edges. The key idea is to define a
+conduction tensor that depends on the local gradient orientation. The tensor is
+constructed using a principal component analysis of the gradient direction over
+a small neighborhood. This allows the diffusion to be aligned locally with the
+image features, thereby enhancing them while removing noise. We show that our
+method outperforms other state-of-the-art methods in terms of PSNR and visual
+quality."
+"kul
+assistant
+['Computer Science']"
+".yang
+assistant
+['Computer Science']"
+"#abassistant
+['Mathematics']"
+".yang
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"ajs
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"kul
+assistant
+['Mathematics']"
+"semblies
+assistant
+['Statistics']"
+"rouponstainer
+
+Assistant
+
+    ['Physics']
+    "
+"UpperCase
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+
+    ['Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"kul
+assistant
+['Computer Science']"
+"ừaassistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science']"
+"assistant
+['Statistics']"
+"kul
+assistant
+['Physics']"
+"amins
+assistant
+
+    ['Computer Science']"
+"kul
+assistant
+['Mathematics']"
+" matchups
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"phanMouseClicked
+assistant
+['Physics']"
+"assistant
+['Quantitative Biology', 'Statistics']"
+"ajs
+assistant
+['Physics']"
+"OTAL
+assistant
+['Quantitative Biology']"
+phan
+"assistant
+['Physics']"
+"phanassistant
+['Computer Science', 'Quantitative Biology']"
+" matchups
+assistant
+['Mathematics', 'Statistics']"
+".yang
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"[source]
+assistant
+['Quantitative Biology']"
+"kulassistant
+['Computer Science']"
+"ừa
+assistant
+['Mathematics']"
+" matchups
+
+Assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"letics
+assistant
+
+    ['Computer Science']"
+"letics'
+"
+"assistant
+['Computer Science', 'Statistics']"
+"letics', 'Quantitative Biology', 'Quantitative Finance']"
+"assistant
+['Mathematics']"
+"letics
+assistant
+['Computer Science', 'Mathematics']"
+".yang
+assistant
+['Statistics']"
+"letics
+assistant
+
+    ['Physics']"
+"assistant
+['Computer Science']"
+"ardownominator
+assistant
+['Computer Science', 'Statistics']"
+"OTALIUSER
+
+Assistant
+
+    ['Physics']
+    "
+"ajs
+assistant
+['Mathematics']"
+"[source]
+assistant
+['Computer Science']"
+"#abassistant
+
+    ['Computer Science', 'Mathematics']
+    "
+"kulipp
+assistant
+['Computer Science']"
+"assistant
+['Computer Science', 'Mathematics']"
+"ioc
+assistant
+['Computer Science']"
+" matchups
+
+Assistant
+['Mathematics']"
+"ioc
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"[source]
+"
+"assistant
+['Computer Science', 'Statistics']"
+"ardownominator
+assistant
+['Computer Science']"
+".yang
+assistant
+['Computer Science']"
+"semblies
+assistant
+
+    ['Physics']"
+"assistant
+['Computer Science']"
+"phanassistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science', 'Statistics']"
+"#abassistant
+['Physics']"
+"phan> ['Mathematics']
+phan> ['Computer Science']"
+"ajs
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']	['Economics']	['Mathematics']	['Statistics']	['Quantitative Economics']	['Quantitative Finance']	['Social Sciences']	['Statistics']	['Computer Science']	['Mathematics']	['Statistics']	['Computer Science']	['Mathematics']	['Statistics']	['Computer Science']	['Mathematics']	['Statistics']	['Computer Science']	['Mathematics']	['Statistics']	['Computer Science']	['Mathematics']	['Statistics']	['Computer Science']	['Mathematics']	['Statistics']	['Computer Science']	['Mathematics']	['Statistics']	['Computer Science']	['Mathematics']	['Statistics']	['Computer Science']	['Mathematics']	['Statistics']	['Computer Science']	['Mathematics']	['Statistics']	['Computer Science']	['Mathematics']	['Statistics']	['Computer Science']	['Mathematics']	['Statistics']	['Computer Science']	['Mathematics']	['Statistics']	['Computer Science']	['Mathematics']	['Statistics']	['Computer Science']	['Mathematics']	['Statistics']	['Computer Science"
+"OTALI
+assistant
+['Physics']"
+"#abassistant
+
+    ['Computer Science', 'Statistics']"
+"assistant
+['Quantitative Biology']"
+"letics
+assistant
+['Statistics']"
+"assistant
+['Computer Science']"
+"amins
+assistant
+['Mathematics']"
+"[source]
+
+Assistant
+['Physics']"
+"OTAL
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"kul
+assistant
+['Computer Science', 'Statistics']"
+"amins
+assistant
+['Physics']"
+"ajs
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Quantitative Biology']"
+"phan
+assistant
+['Statistics']"
+"ajs
+assistant
+['Physics']"
+"assistant
+['Statistics']"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science', 'Physics']"
+"ừa
+assistant
+['Mathematics']"
+"amins
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+
+    ['Mathematics']"
+"assistant
+['Physics']"
+"assistant
+['Physics']"
+"#abassistant
+['Statistics']"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+"UpperCase
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ioc
+assistant
+['Mathematics', 'Statistics']"
+"ioc
+assistant
+['Computer Science', 'Quantitative Finance']"
+"letics', 'Quantum Physics']"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+".yang
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"ừa
+assistant
+
+    ['Physics']"
+"kulician
+
+assistant
+['Mathematics']"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ừa
+assistant
+['Mathematics']"
+"rouponstainer
+
+    ['Physics']
+    "
+"UpperCase
+assistant
+['Computer Science', 'Mathematics']"
+"UpperCase
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"ajs
+assistant
+['Computer Science', 'Quantitative Finance']"
+"roupon
+assistant
+['Computer Science']"
+" matchups
+assistant
+['Computer Science', 'Quantitative Finance']"
+"assistant
+['Computer Science', 'Statistics']"
+"ioc
+
+assistant
+['Computer Science']"
+".yang
+assistant
+['Computer Science', 'Mathematics']"
+"amins
+assistant
+['Computer Science', 'Mathematics']"
+"semblies
+
+Assistant
+
+    ['Physics']
+    "
+"assistant
+['Quantitative Biology']"
+"ioc
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+" matchups
+
+Assistant
+['Statistics']"
+"ioc
+assistant
+['Computer Science']"
+"#abassistant
+
+    ['Computer Science']
+    "
+"[source]
+"
+"OTALI
+assistant
+['Computer Science']"
+"letics
+assistant
+
+    ['Computer Science']"
+"assistant
+['Computer Science']"
+"assistant
+['Quantitative Biology']"
+"[source]
+assistant
+['Physics']"
+"letics', 'Statistics']"
+"[source IP] 142.250.189.178
+
+Assistant
+['Computer Science', 'Physics']"
+"assistant
+['Quantitative Biology']"
+"ardownominator
+assistant
+['Mathematics']"
+"amins
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"ừa
+assistant
+['Physics']"
+"letics
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Mathematics']"
+"#abassistant
+
+    ['Physics']
+    "
+"kulippa
+
+assistant
+['Mathematics']"
+"ardownominator
+assistant
+
+    ['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"letics
+assistant
+['Statistics']"
+"kulippa
+
+assistant
+['Computer Science']"
+"assistant
+
+    ['Physics']"
+"UpperCase
+assistant
+['Computer Science', 'Mathematics']"
+".yang
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science', 'Statistics']"
+"letics'
+['Mathematics']"
+"OTALIEN
+
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"UpperCase
+assistant
+['Statistics']"
+"UpperCase
+assistant
+['Computer Science', 'Statistics']"
+"#abassistant
+
+    ['Computer Science']"
+"ừa
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"ioc
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Mathematics']"
+"amins
+assistant
+['Mathematics']"
+" matchups
+assistant
+['Computer Science', 'Statistics']"
+"ừa
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"UpperCase
+
+Assistant
+['Physics']"
+"phan
+assistant
+['Computer Science']"
+"OTAL
+assistant
+['Physics']"
+"[source]
+
+Assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+"ừaassistant
+
+    ['Physics']"
+"assistant
+['Statistics']"
+"letics
+assistant
+
+    ['Physics']"
+"ardownominator
+assistant
+
+    ['Computer Science']
+    "
+"assistant
+['Physics']"
+"semblies
+
+Assistant
+
+    ['Quantitative Finance']
+    "
+"letics', 'Computer Science']"
+"phanonymous
+assistant
+['Computer Science', 'Statistics']"
+"semblies
+
+Assistant
+
+    ['Computer Science']
+    "
+"assistant
+['Physics']"
+"#abassistant
+['Computer Science']"
+"ajs
+assistant
+['Mathematics']"
+"assistant
+['Statistics']"
+"UpperCase
+assistant
+['Computer Science', 'Physics']"
+".yang
+assistant
+['Quantitative Finance']"
+"OTALI
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"roupon
+assistant
+['Physics']"
+"roupon
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Computer Science', 'Mathematics']"
+"UpperCase
+assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"UpperCase
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"OTALI
+assistant
+['Physics']"
+"rouponstainer
+
+Assistant
+
+    ['Computer Science', 'Statistics']
+    "
+"[source]
+
+Assistant
+['Physics']"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science', 'Statistics']"
+"OTALY
+assistant
+['Computer Science']"
+"amins
+assistant
+['Mathematics', 'Statistics']"
+"OTAL
+assistant
+['Computer Science']"
+" matchups
+assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Mathematics']"
+"kul
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"ừa
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+
+['Computer Science', 'Statistics']"
+"[source]
+
+Assistant
+['Mathematics']"
+phan
+"ajs
+assistant
+['Mathematics']"
+"ardownominator
+assistant
+
+['Mathematics', 'Physics']"
+"assistant
+['Computer Science']"
+"letics
+assistant
+
+    ['Mathematics']"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+".yang
+assistant
+['Physics']"
+"letics
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Statistics']"
+"OTAL
+assistant
+
+    ['Physics']"
+".yang
+assistant
+['Mathematics']"
+"amins
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"ừa
+assistant
+['Physics']"
+"OTALI
+assistant
+['Computer Science']"
+"[source]
+"
+" matchups
+assistant
+['Computer Science']"
+" matchups
+assistant
+['Physics']"
+"assistant
+['Physics']"
+"OTAL
+assistant
+['Computer Science']"
+"OTALI
+assistant
+['Mathematics']"
+"kul
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"assistant
+['Mathematics']"
+"ajs
+assistant
+['Computer Science']"
+"semblies
+['Mathematics']"
+"OTAL
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"phanonymous
+assistant
+['Computer Science']"
+"letics
+
+Assistant"
+"semblies
+['Mathematics']"
+"assistant
+['Physics']"
+"phanassistant
+['Computer Science']"
+"semblies
+assistant
+
+    ['Computer Science']"
+"kulam
+
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"kul
+assistant
+['Computer Science']"
+"UpperCase
+
+Assistant
+['Mathematics']"
+"assistant
+['Quantitative Finance']"
+"[source]
+
+Assistant
+['Computer Science']"
+"letics', 'Computer Science']"
+" matchups
+assistant
+['Computer Science', 'Mathematics']"
+"letics', 'Physics', 'Mathematics', 'Statistics', 'Quantitative Biology', 'Quantitative Finance'].
+RETURN ONLY A LIST AND NOTHING ELSE
+encias', 'Physics', 'Mathematics', 'Statistics']"
+"ajs
+assistant
+['Mathematics', 'Statistics']"
+"assistant
+['Mathematics']"
+"amins
+assistant
+['Mathematics']"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+" matchups
+assistant
+['Statistics']"
+"OTAL
+assistant
+['Statistics']"
+"amins
+assistant
+['Computer Science']"
+" matchups
+assistant
+['Mathematics']"
+"ừaassistant
+['Computer Science']"
+"assistant
+['Computer Science', 'Quantitative Biology']"
+"assistant
+['Computer Science']"
+"semblies
+assistant
+
+    ['Physics']"
+"phan
+assistant
+['Computer Science', 'Mathematics']"
+"#abinator
+
+Assistant
+['Mathematics']"
+".yang
+assistant
+['Computer Science', 'Mathematics']"
+" matchups
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+"ardownominator
+assistant
+['Mathematics']"
+" matchups
+assistant
+['Computer Science']"
+"semblies
+['Mathematics']"
+"ioc
+assistant
+['Computer Science', 'Mathematics']"
+"ừa
+assistant
+
+    ['Quantitative Finance']"
+"letics
+assistant
+
+    ['Physics']"
+"assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Computer Science']"
+"OTAL
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"ajs
+assistant
+['Physics']"
+"assistant
+['Statistics']"
+"semblies
+
+Assistant
+
+    ['Mathematics']
+    "
+"ajs
+assistant
+['Computer Science']"
+"roupon
+assistant
+['Computer Science']"
+"letics
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+" matchups
+assistant
+['Mathematics']"
+"ioc
+assistant
+['Computer Science', 'Statistics']"
+".yang
+assistant
+['Computer Science', 'Statistics']"
+"ừa
+assistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"ajs
+assistant
+['Mathematics']"
+"kulam
+assistant
+['Mathematics']"
+"amins
+assistant
+
+    ['Computer Science']"
+"OTAL
+assistant
+['Mathematics']"
+"assistant
+['Quantitative Biology']"
+"UpperCase
+assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Mathematics']"
+"amins
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Mathematics']"
+"amins
+assistant
+['Physics']"
+"UpperCase
+
+Assistant
+['Computer Science', 'Mathematics']"
+"phan
+
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Mathematics', 'Statistics']"
+"assistant
+
+    ['Physics']"
+" matchups
+assistant
+['Mathematics']"
+"phan
+assistant
+['Physics']"
+"[source]
+
+Given the title and abstract of a research paper, classify it into one or more of the following subjects based on its content: ['Computer Science', 'Physics', 'Mathematics', 'Statistics', 'Quantitative Biology', 'Quantitative Finance'].
+
+RETURN ONLY A LIST AND NOTHING ELSE
+"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+"phan> Statistics
+phan> Mathematics
+phan>"
+"UpperCase
+assistant
+['Physics']"
+"ừaassistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science', 'Mathematics']"
+"ừa
+assistant
+['Mathematics']"
+"kul
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science', 'Statistics']"
+" matchups
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"ajs
+assistant
+['Physics']"
+"#ab
+assistant
+['Computer Science']"
+"kulam
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+".yang
+assistant
+['Mathematics']"
+"kulam
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"ioc
+assistant
+['Mathematics']"
+"ioc
+assistant
+['Physics']"
+"ardownominator
+assistant
+
+    ['Computer Science', 'Mathematics']"
+"ừaassistant
+['Statistics']"
+"ardownominator
+assistant
+
+    ['Computer Science']"
+"semblies
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"ardownominator
+assistant
+['Computer Science']"
+"[source]
+"
+"UpperCase
+assistant
+['Statistics']"
+"assistant
+['Physics']"
+"assistant
+['Computer Science', 'Quantitative Biology']"
+"letics', 'Mathematics']"
+"ajs
+assistant
+['Physics']"
+"letics']
+    "
+"amins
+assistant
+['Computer Science']"
+"#abassistant
+['Computer Science']"
+"kul
+assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Computer Science']"
+"OTAL
+assistant
+['Mathematics']"
+"[source]
+
+Given the title and abstract of a research paper, classify it into one or more of the following subjects based on its content: ['Computer Science', 'Physics', 'Mathematics', 'Statistics', 'Quantitative Biology', 'Quantitative Finance'].
+
+RETURN ONLY A LIST AND NOTHING ELSE
+"
+"ardownominator
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ajs
+assistant
+['Mathematics']"
+"kulam
+
+assistant
+['Physics']"
+"roupon
+assistant
+['Computer Science']"
+"semblies
+
+Assistant
+
+    ['Mathematics']
+    "
+"assistant
+['Statistics']"
+"UpperCase
+assistant
+['Mathematics']"
+"amins
+assistant
+['Computer Science', 'Statistics']"
+"#ab""user
+
+Assistant
+
+    ['Physics']
+    "
+"ardownominator
+assistant
+['Physics']"
+"assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Computer Science']"
+"roupon
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+"ardownistrator
+
+Assistant: ['Computer Science']"
+"kulamakrishnan
+
+Assistant
+
+    ['Computer Science']"
+"rouponassistant
+
+    ['Mathematics']"
+"assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science', 'Physics']"
+"assistant
+['Computer Science']"
+".yang
+assistant
+['Mathematics']"
+".yang
+assistant
+['Computer Science']"
+"amins
+assistant
+
+    ['Computer Science']"
+"assistant
+['Mathematics']"
+" matchups
+assistant
+['Computer Science', 'Statistics']"
+"ardownominator
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"roupon
+assistant
+['Computer Science']"
+"rouponster
+assistant
+['Computer Science', 'Statistics']"
+"OTALI
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"ioc
+assistant
+['Physics']"
+".yang
+assistant
+['Mathematics']"
+"roupon
+assistant
+['Computer Science', 'Statistics']"
+"semblies
+assistant
+['Computer Science']"
+"OTALI
+assistant
+['Statistics']"
+"assistant
+['Physics']"
+"[source]
+
+Assistant
+
+    ['Physics']
+    "
+"amins
+assistant
+['Mathematics']"
+"ừaassistant
+['Computer Science']"
+"#abominator
+assistant
+['Mathematics']"
+"assistant
+['Statistics']"
+"assistant
+['Physics']"
+"phan> Statistics
+phan> Quantitative Biology"
+"amins
+assistant
+['Statistics']"
+"UpperCase
+assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"roupon
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Physics']"
+"amins
+assistant
+
+    ['Computer Science']"
+"assistant
+['Statistics']"
+"#abassistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"#abassistant
+
+    ['Mathematics']
+    "
+"letics
+assistant
+
+    ['Computer Science']"
+"ardownominator
+assistant
+['Computer Science', 'Statistics']"
+phan
+"assistant
+['Physics']"
+"ajs
+assistant
+['Physics']"
+"assistant
+['Mathematics']"
+".yang
+assistant
+['Computer Science', 'Statistics']"
+"OTALI
+assistant
+['Mathematics']"
+" matchups
+assistant
+['Physics']"
+"OTALIUS
+
+assistant
+
+    ['Computer Science', 'Physics']
+    "
+"assistant
+['Mathematics']"
+"ioc
+assistant
+['Computer Science']"
+"semblies
+assistant
+
+    ['Computer Science', 'Physics']"
+"assistant
+['Statistics']"
+"phan> ['Mathematics', 'Physics']"
+"ioc
+assistant
+['Computer Science', 'Statistics']"
+"letics', 'Physics']
+    "
+"UpperCase
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Mathematics', 'Statistics']"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"amins
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"roupon
+assistant
+['Mathematics']"
+"letics
+assistant
+['Computer Science']"
+"letics
+assistant
+
+    ['Computer Science', 'Statistics']"
+"#abassistant
+
+    ['Quantitative Finance']
+    "
+"ajs
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"#ab
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Mathematics', 'Statistics']"
+"assistant
+['Computer Science']"
+" matchups
+assistant
+['Computer Science', 'Mathematics']"
+"ioc
+assistant
+['Computer Science']"
+" matchups
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+".yang
+assistant
+['Computer Science']"
+"OTALI
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science']"
+"amins
+assistant
+['Computer Science']"
+"#abassistant
+['Mathematics']"
+"amins
+assistant
+['Statistics']"
+"assistant
+['Computer Science', 'Mathematics']"
+"#abassistant
+
+    ['Physics']
+    "
+"[source]
+
+Assistant
+['Computer Science']"
+" matchups
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"roupon
+assistant
+['Computer Science', 'Mathematics']"
+"kulamani
+
+Assistant
+
+    ['Physics']
+    "
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Quantitative Biology']"
+"assistant
+['Computer Science']"
+"amins
+assistant
+
+    ['Physics']"
+"letics
+assistant
+['Mathematics']"
+"phanassistant
+['Mathematics']"
+"[source]
+
+Assistant
+['Statistics']"
+"#abassistant
+['Quantitative Biology']"
+"assistant
+['Physics']"
+"OTAL
+assistant
+['Statistics']"
+"ừa
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Physics']"
+"assistant
+['Mathematics']"
+"phanassistant
+['Quantitative Biology']"
+"assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Computer Science', 'Statistics']"
+"letics
+"
+"ừaassistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+" matchups
+assistant
+['Physics']"
+"letics
+Physics, Mathematics"
+"letics', 'Statistics']"
+"assistant
+['Computer Science']"
+"OTALI
+assistant
+['Mathematics']"
+"semblies
+assistant
+
+    ['Physics']"
+".yang
+assistant
+['Computer Science']"
+"phan
+assistant
+['Computer Science']"
+"assistant
+['Mathematics']"
+"ioc
+assistant
+['Computer Science']"
+"letics
+"
+"assistant
+['Mathematics']"
+"semblies
+
+Assistant
+
+    ['Physics']
+    "
+"semblies
+assistant
+
+    ['Computer Science']"
+"ajs
+assistant
+['Quantitative Finance']"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"ajs
+assistant
+['Mathematics']"
+".yang
+assistant
+['Computer Science']"
+"assistant
+['Mathematics']"
+" matchups
+
+Assistant
+['Computer Science', 'Mathematics']"
+"OTALI
+assistant
+['Physics']"
+"assistant
+['Quantitative Biology']"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+"OTAL
+assistant
+['Computer Science']"
+"[source]
+
+Given the title and abstract of a research paper, classify it into one or more of the following subjects based on its content: ['Computer Science', 'Physics', 'Mathematics', 'Statistics', 'Quantitative Biology', 'Quantitative Finance'].
+
+RETURN ONLY A LIST AND NOTHING ELSE
+"
+"assistant
+['Physics']"
+"rouponstainer
+
+    ['Computer Science']
+    "
+"ardownominator
+assistant
+
+    ['Physics']"
+"semblies
+
+Assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Mathematics']"
+"rouponstainer
+
+Assistant
+
+    ['Computer Science']
+    "
+"assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Physics']"
+".yang
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+" matchups
+assistant
+['Mathematics']"
+"semblies
+assistant
+['Computer Science']"
+"semblies
+assistant
+
+    ['Computer Science', 'Statistics']"
+"ioc
+assistant
+['Statistics', 'Quantitative Finance']"
+"[source]
+
+Assistant
+['Computer Science']"
+"assistant
+['Computer Science', 'Statistics']"
+".yang
+assistant
+['Physics']"
+"rouponster
+assistant
+['Mathematics']"
+"ừa
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Physics']"
+" matchups
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"roupon
+assistant
+['Mathematics', 'Statistics']"
+"assistant
+['Quantitative Biology']"
+"OTAL
+assistant
+['Statistics']"
+"rouponstainer
+
+Assistant
+['Mathematics']"
+"ajs
+assistant
+['Physics']"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"semblies
+assistant
+
+    ['Computer Science']"
+"UpperCase
+assistant
+['Mathematics']"
+"#abassistant
+
+    ['Statistics']
+    "
+"rouponstant
+
+assistant
+['Mathematics']"
+"assistant
+['Mathematics']"
+"#ab
+assistant
+['Computer Science']"
+"ừaassistant
+['Mathematics']"
+"#abassistant
+['Physics']"
+"assistant
+['Computer Science', 'Quantitative Biology']"
+"ardownominator
+assistant
+
+    ['Mathematics']"
+"letics']
+    "
+"ardownistrator
+['Computer Science']"
+"assistant
+['Quantitative Biology']"
+"UpperCase
+assistant
+['Statistics']"
+"ioc
+assistant
+['Computer Science']"
+"letics
+assistant
+
+    ['Physics']"
+"semblies
+
+RETURN ONLY A LIST AND NOTHING ELSE
+"
+"assistant
+['Computer Science']"
+"assistant
+['Computer Science', 'Physics']"
+"UpperCase
+assistant
+['Physics']"
+"kul
+assistant
+['Chemistry']"
+"ajs
+assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Physics']"
+"OTAL
+assistant
+['Mathematics', 'Statistics']"
+"assistant
+['Statistics', 'Quantitative Biology']"
+" matchups
+
+Assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"kul
+assistant
+['Physics']"
+"kulipp
+
+assistant
+['Computer Science', 'Mathematics']"
+"semblies
+
+Assistant
+
+    ['Mathematics']
+    "
+"phan
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"kul
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Mathematics']"
+"ừaassistant
+['Computer Science']"
+"assistant
+['Statistics', 'Quantitative Finance']"
+" matchups
+assistant
+['Chemistry']"
+"ừaassistant
+['Physics']"
+" matchups
+assistant
+['Computer Science', 'Mathematics']"
+".yang
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"ardownominator
+assistant
+
+    ['Computer Science', 'Statistics']"
+" matchups
+
+Assistant
+
+    ['Computer Science']
+    "
+"letics
+assistant
+
+    ['Computer Science']"
+"roupon
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"roupon
+assistant
+['Physics']"
+"assistant
+['Quantitative Biology']"
+"phanMouseClicked
+assistant
+['Physics']"
+"kul
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+"semblies
+assistant
+['Mathematics']"
+"[source]
+
+Assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science', 'Physics']"
+"ajs
+assistant
+['Computer Science', 'Mathematics']"
+"amins
+assistant
+['Computer Science']"
+"phan
+assistant
+['Physics']"
+"#abassistant
+['Computer Science', 'Physics']"
+"ừa
+assistant
+
+    ['Mathematics']"
+" matchups
+user
+Title: A Simple Proof of the Uniqueness of the Gaussian Free Field,
+Abstract: The Gaussian free field (GFF) is a fundamental object of probability theory
+and statistical mechanics. It is well known to be unique in dimension d=2, but
+not in higher dimensions. In this note we give a short proof of the uniqueness
+of the GFF in dimension d=2. Our argument relies on the fact that the GFF is
+the unique solution of a certain variational problem."
+"assistant
+['Physics']"
+".yang
+assistant
+['Computer Science']"
+".yang
+assistant
+['Physics']"
+"rouponster
+assistant
+['Physics']"
+"assistant
+['Statistics']"
+"assistant
+['Computer Science']"
+"letics', 'Physics', 'Mathematics']"
+"[source]
+
+Assistant
+['Computer Science']"
+"ioc
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+"#abassistant
+
+    ['Physics']
+    "
+"#abassistant
+['Quantitative Psychology and Measurement']"
+"UpperCase
+assistant
+['Mathematics']"
+"assistant
+['Quantitative Biology']"
+" matchups
+
+Assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Statistics']	['Quantitative Biology']	['Physics']	['Computer Science']	['Mathematics']	['Quantitative Finance']	"
+"ioc
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"letics', 'Statistics']"
+"ừa
+assistant
+['Mathematics']"
+"[source]
+
+Assistant
+['Computer Science']"
+"semblies
+assistant
+['Statistics']"
+[source] Computer Science
+"ioc
+assistant
+['Quantitative Biology']"
+"assistant
+['Physics']"
+"letics', 'Mathematics', 'Statistics', 'Quantitative Biology', 'Quantitative Finance']
+    "
+"assistant
+['Physics']"
+" matchups
+assistant
+['Statistics']"
+" matchups
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Mathematics'] ['Statistics'] ['Quantitative Finance']"
+"amins
+assistant
+['Mathematics']"
+"phan
+assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Physics']"
+"#abassistant
+['Computer Science']"
+"roupon
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Mathematics']"
+" matchups
+assistant
+['Chemistry', 'Computer Science']"
+".yang
+assistant
+['Physics']"
+".yang
+assistant
+['Computer Science']"
+"assistant
+['Statistics']"
+"amins
+assistant
+['Mathematics']"
+"kulician
+
+assistant
+['Mathematics']"
+"assistant
+['Quantitative Biology']"
+"letics
+assistant
+
+    ['Computer Science']"
+"roupon
+assistant
+['Computer Science', 'Statistics']"
+"phanassistant
+['Physics']"
+".yang
+assistant
+['Computer Science']"
+"rouponstant
+
+assistant
+
+    ['Computer Science']
+    "
+"letics
+assistant
+
+    ['Computer Science']"
+"assistant
+['Physics']"
+phan
+"assistant
+['Computer Science', 'Mathematics']"
+"ardownistrator
+['Mathematics']"
+"ừaassistant
+['Computer Science', 'Statistics']"
+"semblies
+
+Assistant
+
+    ['Physics']
+    "
+"assistant
+['Mathematics', 'Statistics']"
+"semblies
+
+Assistant
+
+    ['Computer Science', 'Quantitative Biology']
+    "
+"[source]
+
+Assistant
+['Computer Science', 'Statistics']"
+"roupon
+assistant
+['Computer Science', 'Physics']"
+"amins
+assistant
+
+    ['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"ajs
+assistant
+['Mathematics']"
+"letics
+"
+"#abassistant
+
+    ['Mathematics']
+    "
+"assistant
+['Computer Science']"
+"semblies
+
+Assistant
+['Computer Science', 'Mathematics']"
+".yang
+
+Assistant
+
+    ['Computer Science']
+    "
+"ioc
+assistant
+['Computer Science']"
+".yang
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"#ab
+assistant
+['Mathematics']"
+"[source]
+
+Assistant
+['Mathematics']"
+"ajs
+assistant
+['Mathematics', 'Statistics']"
+"ừaassistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science', 'Physics']"
+"ừa
+assistant
+['Physics']"
+" matchups
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Mathematics']"
+"kul
+assistant
+['Computer Science']"
+"roupon
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"kul
+assistant
+['Statistics']"
+".yang
+assistant
+['Statistics']"
+"letics
+assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Physics']"
+"OTAL
+assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Physics']"
+"OTALI
+assistant
+['Computer Science']"
+"letics
+assistant
+
+    ['Computer Science', 'Quantum Physics']"
+"[source]
+
+Assistant
+['Computer Science']"
+"ardownistrator
+['Mathematics']"
+"assistant
+['Mathematics']"
+"phan> Computer Science
+phan> Statistics
+phan> Quantitative Biology
+phan> Quantitative Finance
+phan>"
+"assistant
+['Physics']"
+"assistant
+['Computer Science', 'Quantitative Biology']"
+"rouponassistant
+['Computer Science', 'Quantitative Biology']"
+".yang
+assistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Mathematics']"
+"ioc
+assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ừa
+assistant
+['Mathematics']"
+"assistant
+['Statistics']"
+"kulam
+assistant
+['Computer Science', 'Statistics']"
+"rouponstainer
+
+Assistant
+['Mathematics']"
+"ajs
+assistant
+['Physics']"
+"[source]
+
+Assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"#abassistant
+
+    ['Computer Science', 'Mathematics']
+    "
+"assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science', 'Mathematics']"
+"amins
+assistant
+['Mathematics']"
+"phan
+assistant
+
+    ['Computer Science']"
+"assistant
+['Computer Science']"
+"OTAL
+assistant
+['Computer Science', 'Mathematics']"
+"roupon
+assistant
+['Computer Science']"
+"#abuser
+assistant
+['Physics']"
+"[source]
+
+Assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Computer Science', 'Physics']"
+"amins
+assistant
+['Mathematics']"
+"kul
+assistant
+['Computer Science', 'Mathematics', 'Statistics']"
+"UpperCase
+assistant
+['Computer Science']"
+"kul
+assistant
+['Mathematics']"
+".yang
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+
+    ['Physics']"
+"ioc
+assistant
+['Computer Science']"
+" matchups
+assistant
+['Computer Science', 'Statistics']"
+"kulipp
+
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"iocuments
+
+Assistant
+
+    ['Computer Science']
+    "
+"assistant
+['Physics']"
+"kul
+assistant
+['Computer Science', 'Statistics']"
+"UpperCase
+assistant
+['Mathematics']"
+"assistant
+['Mathematics', 'Statistics']"
+"UpperCase
+assistant
+['Quantitative Biology']"
+"UpperCase
+assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Statistics']"
+"UpperCase
+assistant
+['Mathematics']"
+"letics', 'Statistics']"
+"rouponster
+
+assistant
+['Computer Science']"
+"assistant
+['Quantitative Biology']"
+".yang
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Physics', 'Statistics']"
+"assistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science']"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+".yang
+assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Mathematics']"
+phan
+"assistant
+['Computer Science']"
+"rouponstainer
+
+    ['Physics']
+    "
+phan
+"[source]
+assistant
+['Mathematics']"
+"assistant
+
+    ['Physics']"
+" matchups
+assistant
+['Computer Science', 'Statistics']"
+"ừaassistant
+['Computer Science']"
+"rouponster
+assistant
+['Physics']"
+"[source]
+
+Assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Mathematics']"
+"ajs
+assistant
+['Computer Science']"
+"roupon
+assistant
+['Physics']"
+"#abassistant
+['Computer Science']"
+"ardownominator
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"ừaassistant
+['Computer Science']"
+"assistant
+['Computer Science', 'Statistics']"
+"rouponstainer
+
+    ['Computer Science']
+    "
+"ajs
+assistant
+['Physics']"
+" matchups
+assistant
+['Computer Science']"
+".yang
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+".yang
+assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Computer Science']"
+"semblies
+assistant
+['Computer Science']"
+"#abassistant
+
+    ['Physics']
+    "
+"assistant
+['Computer Science', 'Statistics']"
+"kulipp
+
+Assistant
+
+    ['Computer Science']
+    "
+"ajs
+assistant
+['Physics']"
+"assistant
+['Mathematics']"
+"ajs
+assistant
+['Computer Science']"
+"kulsson
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"#ab
+assistant
+['Statistics']"
+"semblies
+assistant
+['Mathematics']"
+"amins
+assistant
+['Computer Science']"
+" matchups
+assistant
+['Physics']"
+"[source]
+assistant
+['Computer Science']	['Statistics']	['Quantitative Finance']	['Quantitative Biology']	['Mathematics']	['Physics']	"
+"assistant
+['Statistics']"
+"ardownominator
+assistant
+['Physics']"
+"letics]
+    "
+"assistant
+['Computer Science']"
+"semblies
+assistant
+['Mathematics']"
+" matchups
+
+Assistant
+['Computer Science', 'Physics']"
+"ajs
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"[source](https://arxiv.org/abs/1802.09475)
+[abs](https://arxiv.org/abs/1802.09475)
+
+
+RETURN ONLY A LIST AND NOTHING ELSE
+"
+"assistant
+['Computer Science', 'Statistics']"
+"ioc
+assistant
+['Mathematics']"
+"amins
+assistant
+['Physics']"
+"ừa
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"ajs
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Computer Science', 'Statistics']"
+"ioc
+assistant
+['Computer Science']"
+"ừa
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Computer Science']"
+"assistant
+['Quantitative Biology']"
+"OTAL
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"OTAL
+assistant
+['Computer Science']"
+"semblies
+assistant
+['Computer Science']"
+" matchups
+assistant
+['Mathematics', 'Statistics']"
+"kul
+assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Physics']"
+"OTALIAR
+
+Assistant
+
+    ['Mathematics']
+    "
+"rouponster
+assistant
+['Physics']"
+"amins
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"letics
+assistant
+['Computer Science', 'Mathematics']"
+"rouponstainer
+
+AssistantRDD
+['Physics']
+RDD
+"
+"ardownominator
+assistant
+
+    ['Mathematics']"
+"phan>assistant
+['Computer Science', 'Statistics']"
+"ioc
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"assistant
+['Computer Science', 'Statistics']"
+"phan
+assistant
+['Mathematics']"
+"OTAL
+user
+Title: On the Performance of the Inverse Distance Weighting Method for Spatial Interpolation of Rainfall Events,
+Abstract: Spatial interpolation of rainfall events is an important tool for the
+planning and management of water resources. This study evaluates the performance
+of the inverse distance weighting (IDW) method for interpolating daily rainfall
+events over the State of Rio de Janeiro, Brazil. The IDW method was used to
+interpolate 10-year daily rainfall events at 279 rain gauge stations for the
+period from 1996 to 2005. The results were compared with those obtained using
+the ordinary kriging (OK) method, which is considered to be the best among the
+classical geostatistical methods. The performance of both methods was evaluated
+using the mean absolute error (MAE), root mean square error (RMSE), and the
+fractional bias (FB). The results show that the IDW method performs better than
+the OK method for the majority of the rain gauges. In addition, the IDW method
+produces more homogeneous maps with respect to the OK method. These results
+suggest that the IDW method could be a good alternative for spatially"
+"kulician
+
+Assistant
+
+    ['Physics']
+    "
+"amins
+assistant
+['Computer Science']"
+"assistant
+['Statistics']"
+"roupon
+assistant
+['Mathematics']"
+"phanMouseClicked
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"semblies
+assistant
+['Computer Science', 'Statistics']"
+"ardownominator
+assistant
+['Physics']"
+"ioc
+assistant
+['Statistics']"
+"assistant
+['Computer Science']"
+"ừaassistant
+
+    ['Computer Science']"
+"OTAL
+assistant
+
+    ['Physics']"
+"amins
+assistant
+['Computer Science']"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+"ardownominator
+assistant
+
+    ['Computer Science']"
+"amins
+assistant
+
+    ['Mathematics']"
+"UpperCase
+assistant
+['Computer Science', 'Statistics']"
+"ioc
+assistant
+['Mathematics', 'Statistics']"
+"assistant
+['Mathematics']"
+"letics', 'Computer Science', 'Mathematics']
+    "
+"semblies
+assistant
+['Computer Science']"
+"assistant
+['Computer Science', 'Statistics']"
+"[source]
+assistant
+['Physics']"
+".yang
+assistant
+['Computer Science']"
+"ừa
+assistant
+['Quantitative Biology']"
+"amins
+assistant
+['Computer Science']"
+"assistant
+['Statistics']"
+"UpperCase
+assistant
+['Computer Science', 'Mathematics']"
+" matchups
+assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+".yang
+assistant
+['Computer Science']"
+"semblies
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+".yang
+assistant
+['Computer Science', 'Statistics']"
+"#abassistant
+
+    ['Computer Science', 'Statistics']
+    "
+"[source]
+
+Assistant
+
+    ['Physics']
+    "
+phan
+"amins
+assistant
+
+    ['Mathematics']"
+"amins
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"assistant
+['Statistics']"
+"amins
+assistant
+['Mathematics']"
+"#abassistant
+['Computer Science']"
+".yang
+assistant
+['Physics']"
+"amins
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Computer Science', 'Statistics']"
+"semblies
+
+Assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"ardownominator
+assistant
+['Computer Science']"
+"letics', 'Computer Science', 'Statistics']"
+"ardownominator
+assistant
+
+    ['Computer Science']"
+"assistant
+['Physics']"
+"ardownominator
+assistant
+
+    ['Computer Science']"
+"assistant
+['Computer Science']"
+"ừa
+user
+Title: A new approach to the study of the dynamics of the quadratic family,
+Abstract: We present a new approach to the study of the dynamics of the quadratic map
+$f_a(z)=z^2+a$ where $a\in \mathbb{C}$. This approach allows us to obtain new
+results about the dynamics of $f_a$, in particular about the Julia sets of
+$f_a$. We prove that the Julia set of $f_a$ has no interior points if and only
+if the boundary of the basin of attraction of infinity of $f_a$ is not dense
+in the Julia set. Moreover, we also prove that the boundary of the basin of
+attraction of infinity of $f_a$ is dense in the Julia set if and only if the
+Julia set of $f_a$ is a Cantor set. Finally, we give a new proof of the fact
+that the boundary of the basin of attraction of infinity of $f_a$ is not dense
+in the Julia set if $a$ belongs to the closure of the Mandelbrot set."
+" matchups
+assistant
+['Statistics']"
+"letics
+assistant
+['Computer Science']"
+"phan
+
+assistant
+['Mathematics']"
+"#abassistant
+
+    ['Mathematics']"
+"assistant
+['Computer Science', 'Quantitative Biology']"
+"ajs
+assistant
+['Physics']"
+"assistant
+['Mathematics']"
+"kul
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Mathematics']"
+"ardownominator
+assistant
+['Mathematics', 'Statistics']"
+"assistant
+['Computer Science', 'Mathematics']"
+"amins
+assistant
+
+    ['Computer Science', 'Quantitative Finance']"
+"assistant
+['Mathematics']"
+"ardownominator
+assistant
+['Mathematics']"
+"letics
+assistant
+
+    ['Computer Science', 'Statistics']"
+"ioc
+assistant
+['Mathematics']"
+"#abinator
+assistant
+['Computer Science', 'Statistics']"
+"rouponstainer
+
+    ['Computer Science']
+    "
+"assistant
+['Quantitative Biology']"
+"phan
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Physics']"
+"OTALI
+assistant
+['Mathematics']"
+"amins
+assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Physics']"
+"#abassistant
+['Mathematics']"
+"UpperCase
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Quantitative Biology']"
+"ardownominator
+assistant
+
+    ['Physics']
+    "
+"amins
+assistant
+['Mathematics']"
+"assistant
+['Mathematics']"
+" matchups
+
+Assistant
+['Computer Science']"
+"ioc
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Quantitative Biology']"
+" matchups
+assistant
+['Mathematics']"
+"rouponstainer
+
+Assistant
+
+    ['Computer Science']
+    "
+"letics
+assistant
+
+    ['Computer Science']"
+"roupon
+assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"ừaassistant
+['Computer Science']"
+"semblies
+assistant
+['Computer Science']"
+"OTAL
+assistant
+['Computer Science', 'Physics']"
+"rouponster
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"ajs
+assistant
+['Mathematics']"
+"OTALI
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"ardownominator
+assistant
+['Mathematics']"
+"semblies
+assistant
+
+    ['Physics']"
+"assistant
+['Quantitative Finance']"
+".yang
+assistant
+['Physics']"
+"#abassistant
+['Computer Science']"
+"iocount
+assistant
+['Computer Science']"
+"OTAL
+assistant
+['Computer Science', 'Mathematics']"
+"ioc
+assistant
+['Physics']"
+"ioc
+assistant
+['Mathematics']"
+"assistant
+['Quantitative Biology']"
+"amins
+assistant
+
+    ['Computer Science']"
+"[source]
+
+Assistant
+['Physics']"
+"assistant
+['Mathematics']"
+".yang
+assistant
+['Computer Science']"
+"assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Computer Science']"
+"semblies
+
+Assistant
+
+    ['Mathematics']
+    "
+"OTALI
+assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science', 'Mathematics']"
+"ừa
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"ừa
+assistant
+['Statistics']"
+" matchups
+assistant
+['Statistics']"
+"letics
+assistant
+['Physics']"
+"assistant
+['Quantitative Biology']"
+" matchups
+assistant
+['Mathematics']"
+"ioc
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Mathematics']"
+" matchups
+
+Assistant
+['Mathematics']"
+"ajs
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"roupon
+assistant
+['Mathematics']"
+"amins
+assistant
+
+    ['Computer Science', 'Quantitative Biology']"
+"[source]
+
+Assistant
+['Physics']"
+"OTALIUS
+
+Assistant
+
+    ['Computer Science', 'Statistics']
+    "
+"amins
+assistant
+
+    ['Physics']"
+"assistant
+['Physics']"
+letics']
+"rouponstainer
+
+Assistant
+
+    ['Computer Science']
+    "
+"ardownominator
+assistant
+
+    ['Physics']"
+".yang
+assistant
+['Mathematics', 'Statistics']"
+"assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"ioc
+assistant
+['Statistics']"
+"letics
+assistant
+['Mathematics']"
+"semblies
+assistant
+
+    ['Computer Science']"
+phan
+"ioc
+assistant
+['Computer Science']"
+"amins
+assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Physics']"
+"roupon
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"#abassistant
+['Physics']"
+"ừa
+assistant
+['Mathematics']"
+"ừa
+assistant
+
+    ['Physics']"
+"assistant
+['Quantitative Biology']"
+"ừa
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+
+    ['Physics']"
+"phan
+assistant
+['Statistics']"
+"OTAL
+assistant
+
+    ['Mathematics']"
+"ajs
+assistant
+
+    ['Physics']"
+"assistant
+['Quantitative Biology']"
+"ừaassistant
+['Computer Science', 'Statistics']"
+" matchups
+assistant
+['Physics', 'Mathematics']"
+"assistant
+['Physics']"
+"#abassistant
+
+    ['Computer Science', 'Statistics']"
+" matchups
+assistant
+['Computer Science']"
+"amins
+assistant
+
+    ['Computer Science']"
+"kulipp
+
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+".yang
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+letics']
+"rouponassistant
+['Computer Science', 'Statistics']"
+"ừa
+assistant
+['Computer Science', 'Statistics']"
+"OTAL
+assistant
+['Computer Science']"
+"phanassistant
+['Computer Science']"
+"assistant
+['Mathematics']"
+"#abassistant
+['Computer Science']"
+"assistant
+['Mathematics']"
+"amins
+assistant
+
+    ['Physics']"
+"amins
+assistant
+['Computer Science']"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ajs
+assistant
+['Mathematics', 'Statistics']"
+"UpperCase
+assistant
+['Mathematics']"
+"OTAL
+assistant
+
+    ['Physics']"
+"roupon
+assistant
+['Mathematics', 'Quantitative Finance']"
+"assistant
+['Computer Science']"
+"phan> ['Computer Science']
+phan> ['Statistics']"
+"letics
+assistant
+
+    ['Physics']"
+"assistant
+['Quantitative Biology']"
+"ardownominator
+assistant
+
+    ['Mathematics']"
+"ajs
+assistant
+
+    ['Computer Science', 'Quantitative Finance']"
+"kul
+assistant
+['Physics']"
+"amins
+assistant
+['Mathematics']"
+"#abassistant
+
+    ['Physics']
+    "
+"assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"phanMouseClicked
+assistant
+['Mathematics']"
+"ừa
+assistant
+['Computer Science']"
+"amins
+assistant
+['Computer Science', 'Statistics']"
+" matchups
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"ioc
+assistant
+['Statistics']"
+"semblies
+
+Assistant
+['Mathematics']"
+"#abassistant
+
+    ['Mathematics']
+    "
+"ioc
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+".yang
+assistant
+['Computer Science']"
+"ừa
+assistant
+['Computer Science']"
+"assistant
+
+    ['Physics']"
+"ioc
+assistant
+['Mathematics']"
+"[source]
+
+Assistant
+['Mathematics', 'Statistics']"
+"assistant
+['Computer Science']"
+"semblies
+assistant
+
+    ['Statistics']"
+"letics
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"semblies
+assistant
+['Computer Science']"
+"letics
+assistant
+['Mathematics']"
+"ừa
+assistant
+['Statistics']"
+"assistant
+['Physics']"
+"kulician
+
+Assistant
+
+    ['Mathematics']
+    "
+"amins
+assistant
+
+    ['Physics']"
+"roupon
+assistant
+['Computer Science', 'Statistics']"
+"letics
+"
+"assistant
+['Computer Science']"
+" matchups
+assistant
+['Mathematics']"
+".yang
+assistant
+['Computer Science', 'Statistics']"
+"phan
+assistant
+['Computer Science', 'Statistics']"
+phan
+"assistant
+['Quantitative Biology']"
+"semblies
+assistant
+['Mathematics']"
+"roupon
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"phanassistant
+['Physics']"
+" matchups
+assistant
+['Physics']"
+"assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science', 'Statistics']"
+"amins
+assistant
+
+    ['Statistics']"
+"assistant
+['Computer Science']"
+"ardownominator
+
+assistant
+['Computer Science', 'Mathematics']"
+"#abassistant
+['Computer Science']"
+"#abassistant
+
+    ['Physics']
+    "
+"ajs
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+
+    ['Physics']"
+"assistant
+
+    ['Computer Science']"
+"[source]
+
+Assistant
+
+    ['Quantitative Biology']
+    "
+"kulician
+
+Assistant
+
+    ['Mathematics', 'Statistics']"
+"ừa
+assistant
+['Mathematics']"
+"ioc
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"ừa
+assistant
+['Computer Science', 'Statistics']"
+"ioc
+assistant
+['Computer Science']"
+phan]>['Mathematics']
+"assistant
+['Physics']"
+"[source]
+
+Given the title and abstract of a research paper, classify it into one or more of the following subjects based on its content: ['Computer Science', 'Physics', 'Mathematics', 'Statistics', 'Quantitative Biology', 'Quantitative Finance'].
+
+RETURN ONLY A LIST AND NOTHING ELSE
+"
+"assistant
+['Computer Science']"
+"ừaassistant
+['Computer Science', 'Statistics']"
+"ừaassistant
+['Computer Science']"
+"assistant
+['Physics']"
+".yang
+assistant
+['Computer Science', 'Statistics']"
+"[source]
+assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Computer Science']"
+"assistant
+['Computer Science', 'Statistics']"
+"OTALI
+assistant
+['Physics']"
+"#abassistant
+['Physics']"
+"amins
+assistant
+
+    ['Computer Science']"
+"assistant
+['Physics']"
+"kul
+assistant
+['Physics']"
+phan> ['Mathematics']
+"semblies
+assistant
+
+    ['Computer Science']"
+"OTAL
+assistant
+['Quantitative Biology']"
+"assistant
+['Quantitative Biology']"
+"ioc
+assistant
+['Mathematics']"
+"ardownominator
+assistant
+['Computer Science']"
+"kulician
+
+assistant
+['Physics']"
+"ardownominator
+assistant
+['Computer Science', 'Statistics']"
+"semblies
+assistant
+
+    ['Computer Science', 'Mathematics']"
+"assistant
+['Statistics']"
+"assistant
+['Mathematics']"
+"ioc
+assistant
+['Computer Science']"
+"kul
+assistant
+['Physics']"
+" matchups
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"OTALL
+assistant
+
+    ['Mathematics']"
+"phan=localhost
+
+assistant
+['Physics']"
+"ardownominator
+assistant
+
+    ['Computer Science']"
+"assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Mathematics', 'Statistics']"
+"amins
+assistant
+['Computer Science']"
+"phan> Physics, Mathematics
+phan> 
+
+RETURN ONLY A LIST AND NOTHING ELSE
+phan> ['Physics', 'Mathematics']"
+".yang
+assistant
+['Computer Science']"
+"iocasia
+assistant
+['Physics']"
+"phan> Mathematics
+phan> Logic"
+"assistant
+['Physics']"
+"rouponst
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+"amins
+assistant
+['Physics']"
+"[source]
+
+Assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"ajs
+assistant
+['Computer Science']"
+"ừaassistant
+['Computer Science']"
+" matchups
+user
+Title: On the Power of Over-parametrization in Neural Networks with Quadratic Activation,
+Abstract: We provide theoretical guarantees on the ability of over-parametrized
+neural networks with quadratic activation to interpolate data and perform
+generalization. In particular, we consider a simple two-layer network with
+$n$ parameters trained to fit $m$ training points exactly. When the number of
+parameters $n$ is at least proportional to the number of points $m$, we show
+that there exists a choice of weights in the network such that the prediction
+error is zero on the training set and the $\ell_2$ norm of the weights is
+bounded by a constant independent of $n$ and $m$. Our result holds for any
+labeling of the data points and for any value of the regularization parameter.
+Furthermore, we show that this phenomenon persists even when the data is noisy
+and the labels do not agree with the true underlying function. We complement
+our theoretical results with empirical evidence showing that over-parametrized
+two layer neural networks can generalize well on synthetic and real data
+datasets."
+"assistant
+['Physics']"
+"ardownominator
+assistant
+
+    ['Mathematics']"
+"ioc
+assistant
+['Computer Science']"
+"assistant
+['Mathematics']"
+"ừaassistant
+['Quantum Physics']"
+"roupon
+assistant
+['Mathematics']"
+"kul
+assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Quantitative Biology']"
+"assistant
+['Mathematics', 'Statistics']"
+"UpperCase
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"UpperCase
+assistant
+['Computer Science']"
+".yang
+assistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science', 'Statistics']"
+"iocaine-wolf
+
+Assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"OTAL
+assistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science']"
+"assistant
+['Quantitative Biology']"
+"OTAL
+assistant
+['Computer Science']"
+"semblies
+assistant
+['Computer Science']"
+"amins
+assistant
+['Computer Science']"
+"semblies
+assistant
+['Mathematics']"
+".yang
+assistant
+['Mathematics']"
+"phanMouseClicked
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"phan
+assistant
+['Computer Science']"
+" matchups
+
+Assistant
+['Computer Science', 'Mathematics']"
+"kulam
+
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Physics']"
+"assistant
+['Physics']"
+"OTALM
+assistant
+['Statistics', 'Quantum Physics']"
+"[source]
+
+Assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"rouponstainer
+
+    ['Computer Science']
+    "
+"OTAL
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"amins
+assistant
+
+    ['Mathematics']"
+"phan
+assistant
+['Computer Science', 'Physics']"
+"semblies
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Mathematics', 'Statistics']"
+"[source]
+
+Assistant
+['Physics']"
+"assistant
+['Computer Science', 'Mathematics']"
+"semblies
+assistant
+['Computer Science']"
+"amins
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+" matchups
+assistant
+['Statistics']"
+"OTAL
+assistant
+['Physics']"
+"kulipp
+
+assistant
+['Physics']"
+"letics
+assistant
+['Computer Science']"
+"semblies.
+We also show that the recombination process could be exploited to detect the
+presence of a charged particle in the detector, as well as to discriminate
+between the muons and the electrons. We propose an algorithm which can be used
+to discriminate between the muon and electron tracks, with a good efficiency
+and a low contamination. We also discuss the possibility to use the recombination
+process to identify the tracks of particles with a high energy deposition in
+the detector."
+"assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Physics']"
+"ioc
+assistant
+['Mathematics']"
+"phanassistant
+['Physics']"
+".yang
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Mathematics']"
+"OTAL
+assistant
+
+    ['Computer Science', 'Mathematics']
+    "
+"ardownominator
+assistant
+
+    ['Physics']"
+"UpperCase
+assistant
+['Statistics']"
+"assistant
+['Computer Science']"
+"letics
+assistant
+['Mathematics']"
+"ioc
+assistant
+['Quantitative Biology']"
+"rouponster
+assistant
+['Physics']"
+"amins
+assistant
+['Computer Science', 'Statistics']"
+"[source]
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+".yang
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"phan
+assistant
+['Computer Science']"
+"kul
+assistant
+['Mathematics']"
+"[source]
+
+Assistant
+['Statistics']"
+"phan> Statistics
+phan> Computer Science
+phan> Quantitative Biology"
+" matchups
+assistant
+['Computer Science', 'Statistics']"
+" matchups
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"phan> ['Computer Science', 'Mathematics', 'Statistics']
+phan> ['Mathematics', 'Statistics']
+phan>"
+"UpperCase
+assistant
+['Mathematics']"
+"letics', 'Quantitative Biology']
+    "
+"assistant
+['Physics']"
+"#abassistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+" matchups
+assistant
+['Physics']"
+"[source]
+
+Assistant
+['Mathematics']"
+"phanassistant
+['Computer Science']"
+"semblies
+assistant
+
+    ['Mathematics']"
+"assistant
+['Computer Science', 'Mathematics']"
+" matchups
+assistant
+['Physics']"
+"phanassistant
+
+    ['Computer Science']
+    "
+"assistant
+['Physics']"
+"#ab""user
+
+Assistant
+
+    ['Computer Science', 'Mathematics']
+    "
+"OTALIGNMENT
+assistant
+['Computer Science', 'Physics']"
+"assistant
+['Mathematics', 'Physics']"
+"[source]
+
+Assistant
+['Computer Science']"
+"phan> ['Computer Science', 'Mathematics']"
+"rouponster
+assistant
+['Computer Science', 'Statistics']"
+"ioc
+assistant
+['Mathematics']"
+".yang
+assistant
+['Physics']"
+"UpperCase
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"#abassistant
+
+    ['Computer Science']
+    "
+"UpperCase
+assistant
+['Mathematics']"
+"kul
+assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Physics']"
+"ardownistrator
+
+Assistant: ['Computer Science']"
+"assistant
+['Computer Science', 'Mathematics']"
+"semblies
+assistant
+['Computer Science', 'Statistics']"
+"roupon
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science', 'Statistics']"
+"semblies
+
+Assistant
+['Mathematics']"
+"semblies
+
+Assistant
+
+    ['Physics']
+    "
+"ajs
+assistant
+['Mathematics']"
+"amins
+assistant
+['Statistics']"
+"assistant
+['Physics']"
+"OTALI
+assistant
+['Physics']"
+"[source]
+"
+"assistant
+['Mathematics']"
+"OTALI
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Computer Science']"
+"amins
+assistant
+['Computer Science']"
+"assistant
+['Computer Science', 'Statistics']"
+" matchups
+assistant
+['Computer Science']"
+"rouponstainer
+
+    ['Physics']
+    "
+"rouponassistant
+
+    ['Physics']"
+"assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Mathematics']"
+"ừa [Computer Science, Statistics]"
+"rouponster
+assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"UpperCase
+assistant
+['Statistics']"
+"ardownominator
+assistant
+
+    ['Mathematics']"
+"roupon
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+
+    ['Computer Science']"
+"assistant
+['Physics']"
+"semblies
+assistant
+['Computer Science']"
+".yang
+assistant
+['Physics']"
+"assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Computer Science', 'Statistics']"
+"kul
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Quantitative Biology']"
+"ừa
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+" matchups
+
+Assistant
+['Mathematics']"
+"rouponstant
+assistant
+['Computer Science', 'Statistics']"
+"OTALI
+assistant
+['Physics']"
+"assistant
+['Physics']"
+"phan> Quantitative Finance</phan>
+
+"
+"UpperCase
+assistant
+['Computer Science']"
+"[source]
+
+RETURN ONLY A LIST AND NOTHING ELSE
+"
+"assistant
+['Computer Science', 'Mathematics']"
+"semblies
+assistant
+['Mathematics']"
+"OTALY
+assistant
+['Mathematics']"
+"amins
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"[source]
+
+Assistant
+
+    ['Mathematics']
+    "
+"iocaine粉
+
+assistant
+['Quantitative Biology']"
+"ioc
+assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Computer Science']"
+"amins
+assistant
+['Physics']"
+"ioc
+assistant
+['Mathematics']"
+"OTALIAR
+
+Assistant
+
+    ['Physics']
+    "
+"assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"ajs
+assistant
+['Computer Science']"
+"semblies
+assistant
+['Statistics']"
+"ajs
+assistant
+['Physics']"
+"phan> ['Mathematics']
+phan> ['Mathematics']"
+".yang
+assistant
+['Physics']"
+"UpperCase
+assistant
+['Mathematics', 'Statistics']"
+"assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ừa
+assistant
+['Physics']"
+".yang
+assistant
+['Computer Science']"
+letics']
+"letics
+assistant
+
+    ['Computer Science']"
+"UpperCase
+assistant
+['Computer Science']"
+"letics
+assistant
+['Physics']"
+"assistant
+['Statistics']"
+" matchups
+assistant
+['Computer Science']"
+"kulician
+
+assistant
+['Mathematics']"
+" matchups
+assistant
+['Physics']"
+"assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"OTAL
+assistant
+['Mathematics']"
+"letics
+assistant
+['Physics']"
+"amins
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"phan> Statistics
+phan> Computer Science"
+"ardownistrator
+
+Assistant: ['Physics']"
+"kul
+assistant
+['Computer Science']"
+"kul
+assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Computer Science', 'Statistics']"
+"ioc
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"kul
+assistant
+['Mathematics']"
+"semblies
+assistant
+
+    ['Physics']"
+"UpperCase
+assistant
+['Computer Science']"
+"assistant
+['Quantitative Biology']"
+"#abassistant
+
+    ['Physics']"
+"kul
+assistant
+['Computer Science', 'Mathematics']"
+"roupon
+assistant
+['Computer Science']"
+"assistant
+['Mathematics']"
+"iocasia
+assistant
+['Physics']"
+".yang
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"ardownominator
+assistant
+
+    ['Quantitative Finance']"
+"amins
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"ardownominator
+assistant
+
+    ['Statistics']"
+"amins
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+['Computer Science']"
+"kul
+assistant
+['Quantitative Biology']"
+"assistant
+['Computer Science', 'Statistics']"
+"semblies
+assistant
+['Computer Science']"
+".yang
+assistant
+['Mathematics']"
+"ardownominator
+assistant
+
+['Computer Science']"
+"assistant
+['Computer Science', 'Statistics']"
+"iocasoft_system
+
+Assistant
+['Physics']"
+"letics
+assistant
+['Computer Science', 'Mathematics']"
+"rouponster
+assistant
+['Statistics']"
+"assistant
+['Quantitative Biology']"
+"ardownominator
+assistant
+
+    ['Physics']"
+"assistant
+['Computer Science']"
+"semblies
+
+    ['Physics']
+    "
+"letics
+assistant
+['Mathematics']"
+"iocasia
+assistant
+['Computer Science']"
+".yang
+assistant
+['Computer Science']"
+"assistant
+['Statistics']"
+"#abassistant
+['Computer Science', 'Statistics']"
+"kul
+assistant
+['Statistics']"
+".yang
+assistant
+['Mathematics']"
+" matchups
+
+Assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Statistics']"
+"letics
+assistant
+['Physics']"
+"kulassistant
+['Computer Science']"
+"ừa
+assistant
+
+    ['Physics']"
+"phanElementsBySubject
+
+Assistant
+
+    ['Statistics']
+    "
+"assistant
+['Computer Science', 'Mathematics']"
+"phanterior
+
+assistant
+
+    ['Physics']
+    "
+"semblies
+assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Computer Science']"
+" matchups
+assistant
+['Quantitative Biology', 'Statistics']"
+"ardownominator
+assistant
+['Mathematics']"
+"assistant
+['Quantitative Finance']"
+"OTAL
+assistant
+['Mathematics']"
+"#abassistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+"letics
+"
+"ajs
+assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Mathematics']"
+"ioc
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"kul
+assistant
+['Computer Science', 'Mathematics']"
+"semblies
+assistant
+
+    ['Mathematics']"
+"assistant
+['Physics']"
+".yang
+assistant
+['Statistics']"
+" matchups
+assistant
+['Physics']"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science', 'Statistics']"
+"letics
+assistant
+
+    ['Mathematics', 'Physics']"
+"assistant
+['Computer Science']"
+"amins
+assistant
+['Computer Science']"
+"OTALI
+assistant
+['Physics']"
+"ardownominator
+assistant
+
+    ['Mathematics']"
+"ioc
+assistant
+['Mathematics']"
+".yang
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"ajs
+assistant
+['Mathematics']"
+"semblies
+
+Assistant
+
+    ['Mathematics']
+    "
+"assistant
+['Physics']"
+"ardownominator
+assistant
+['Computer Science']"
+"OTAL
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"phan
+
+assistant
+
+    ['Computer Science']
+    "
+"OTALI
+assistant
+['Physics']"
+"letics']
+    "
+"assistant
+['Physics']"
+"#ab practitione
+
+Assistant
+['Physics']"
+"amins
+assistant
+
+    ['Physics']"
+"#abassistant
+
+    ['Computer Science']"
+"assistant
+['Physics']"
+"semblies
+assistant
+
+    ['Physics']"
+" matchups
+assistant
+['Statistics']"
+"assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Statistics']"
+"ioc
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Mathematics']"
+"letics
+assistant
+
+    ['Physics']"
+"OTAL
+assistant
+['Computer Science']"
+"assistant
+['Quantitative Biology']"
+"ajs
+assistant
+['Computer Science']"
+"ừa
+assistant
+['Mathematics']"
+"#abassistant
+
+    ['Computer Science']
+    "
+"assistant
+['Mathematics']"
+"#abisor
+
+Assistant
+['Computer Science', 'Physics']"
+"ioc
+assistant
+['Statistics']"
+"kul
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"letics', 'Statistics', 'Quantitative Finance']
+    "
+"OTAL
+assistant
+['Mathematics']"
+".yang
+assistant
+['Computer Science', 'Statistics']"
+"roupon
+assistant
+['Computer Science', 'Physics']"
+"assistant
+['Computer Science']"
+"ardownominator
+assistant
+
+    ['Statistics']"
+"#abassistant
+['Quantitative Biology']"
+"assistant
+['Mathematics']"
+" matchups
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Computer Science', 'Statistics']"
+"amins
+assistant
+['Mathematics']"
+"amins
+assistant
+
+    ['Mathematics']
+    "
+"ioc
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Physics']"
+"assistant
+['Statistics']"
+"amins
+assistant
+['Computer Science']"
+phan> ['Mathematics']
+"ioc
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"ioc
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Statistics']"
+"kulma
+assistant
+['Mathematics']"
+"ioc
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"amins
+assistant
+['Physics']"
+".yang
+assistant
+['Quantitative Finance']"
+"kul
+assistant
+['Computer Science', 'Statistics']"
+"#abassistant
+
+    ['Physics']
+    "
+"assistant
+['Computer Science']"
+"OTAL
+assistant
+['Computer Science']"
+"ừa
+assistant
+['Statistics']"
+"[source]
+
+Assistant
+['Computer Science']"
+"assistant
+['Statistics']"
+".yang
+assistant
+['Mathematics']"
+"assistant
+['Mathematics']"
+"phanassistant
+['Computer Science']"
+"UpperCase
+assistant
+['Computer Science']"
+"semblies
+assistant
+['Computer Science']"
+"#abassistant
+['Physics']"
+"[source]
+
+Given the title and abstract of a research paper, classify it into one or more of the following subjects based on its content: ['Computer Science', 'Physics', 'Mathematics', 'Statistics', 'Quantitative Biology', 'Quantitative Finance'].
+
+RETURN ONLY A LIST AND NOTHING ELSE
+"
+"assistant
+['Computer Science', 'Mathematics']"
+"ardownistrator
+['Computer Science', 'Statistics']"
+"semblies
+assistant
+
+    ['Computer Science']"
+"ioc
+assistant
+['Physics']"
+"OTAL
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+"letics
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Physics']"
+"[source]
+
+Assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"OTAL
+assistant
+['Computer Science']"
+"ioced
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"OTAL
+assistant
+['Mathematics']"
+".yang
+assistant
+['Statistics']"
+"kul
+assistant
+['Computer Science', 'Quantitative Biology']"
+"assistant
+['Chemistry']"
+"OTAL
+assistant
+['Computer Science', 'Mathematics']"
+"UpperCase
+assistant
+['Mathematics']"
+"amins
+assistant
+
+    ['Computer Science']"
+"ardownominator
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Computer Science', 'Quantitative Biology']"
+"assistant
+['Computer Science', 'Statistics']"
+"ardownominator
+assistant
+['Mathematics']"
+"[source]
+
+Assistant
+['Statistics']"
+"iocp
+
+Assistant
+['Computer Science', 'Quantum Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"#ab
+assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Mathematics']"
+".yang
+assistant
+['Physics']"
+"ajs
+assistant
+['Computer Science']"
+"semblies
+assistant
+
+    ['Physics']"
+"ioc
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+['Physics']"
+"#abassistant
+
+    ['Physics']
+    "
+"assistant
+['Mathematics']"
+"kul
+assistant
+['Mathematics']"
+"kulassistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+"roupon
+assistant
+['Physics']"
+"phanassistant
+['Computer Science']"
+"semblies
+
+Assistant
+
+    ['Mathematics']
+    "
+"kul
+assistant
+['Statistics']"
+"assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"#abassistant
+['Physics']"
+"letics
+"
+"amins
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+
+    ['Physics']"
+"roupon
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"kul
+assistant
+['Mathematics']"
+"assistant
+['Quantitative Biology']"
+".yang
+assistant
+['Computer Science']"
+"ừa
+assistant
+['Mathematics']"
+"ừa
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+"kul
+assistant
+['Statistics']"
+"[source]
+
+Assistant
+['Physics']"
+"#abinator
+assistant
+['Computer Science']"
+" matchups
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Mathematics']"
+"letics
+assistant
+
+    ['Mathematics']"
+"[source]
+
+Assistant
+['Computer Science', 'Statistics']"
+"amins
+assistant
+['Computer Science']"
+"assistant
+['Computer Science', 'Physics']"
+"roupon
+assistant
+['Computer Science']"
+"assistant
+['Mathematics']"
+"kulam
+
+assistant
+['Physics']"
+"[source]
+
+Assistant
+['Statistics', 'Quantitative Finance']"
+"#abassistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+phan
+"kulipp
+
+assistant
+['Mathematics', 'Statistics']"
+"phanassistant
+
+    ['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"[source]
+
+Assistant
+['Computer Science']"
+"ajs
+assistant
+['Mathematics']"
+"semblies
+
+Assistant
+
+    ['Physics']
+    "
+"#abuser
+
+Assistant
+['Computer Science', 'Mathematics']"
+"roupon
+assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"OTALI
+assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"#abassistant
+
+    ['Mathematics']
+    "
+"kulician
+
+Assistant
+
+    ['Mathematics']
+    "
+"ajs
+assistant
+['Mathematics']"
+"ardownominator
+assistant
+
+    ['Computer Science', 'Mathematics']"
+"ardownominator
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"ừaassistant
+['Mathematics']"
+"semblies
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Physics']"
+"phanMouseClicked()
+user
+Title: FLAME: A Fast Large-scale Almost Matching Exactly Approach to Causal Inference,
+Abstract: A classical problem in causal inference is that of matching, where
+treatment units need to be matched to control units. Some of the main
+challenges in developing matching methods arise from the tension among (i)
+inclusion of as many covariates as possible in defining the matched groups, (ii)
+having matched groups with enough treated and control units for a valid
+estimate of Average Treatment Effect (ATE) in each group, and (iii) computing
+the matched pairs efficiently for large datasets. In this paper we propose a
+fast method for approximate and exact matching in causal analysis called FLAME
+(Fast Large-scale Almost Matching Exactly). We define an optimization
+objective for match quality, which gives preferences to matching on covariates
+that can be useful for predicting the outcome while encouraging as many matches
+as possible. FLAME aims to optimize our match quality measure, leveraging
+techniques that are natural for query processing in the area of database
+management. We provide two implementations of FLAME using SQL queries and bit-
+vector techniques."
+".yang
+assistant
+['Computer Science', 'Mathematics']"
+"semblies
+assistant
+
+    ['Computer Science']"
+"assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+" matchups
+assistant
+['Computer Science']"
+"amins
+assistant
+
+    ['Computer Science', 'Mathematics']"
+"ioc
+assistant
+['Computer Science']"
+"#abassistant
+
+    ['Mathematics']"
+"UpperCase
+assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Physics']"
+" matchups
+assistant
+['Computer Science']"
+"kul
+assistant
+['Computer Science', 'Statistics']"
+"rouponstantiator
+['Physics']"
+"UpperCase
+assistant
+['Computer Science']"
+"assistant
+['Chemistry']"
+"UpperCase
+assistant
+['Physics']"
+"[source]
+
+Assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science', 'Statistics']"
+"ajs
+assistant
+['Computer Science']"
+"roupon
+assistant
+['Computer Science', 'Statistics']"
+"kulipp
+
+Assistant
+
+    ['Computer Science']
+    "
+"assistant
+['Computer Science', 'Physics']"
+"UpperCase
+assistant
+['Computer Science']"
+"amins
+assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Mathematics']"
+"[source]
+
+Assistant
+['Physics']"
+"kul
+assistant
+['Computer Science']"
+".yang
+assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Physics']"
+"assistant
+['Physics']"
+"assistant
+['Computer Science']"
+" matchups
+
+Assistant
+['Physics']"
+" matchups
+
+Assistant
+['Computer Science', 'Quantitative Biology']"
+" matchups
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+".yang
+assistant
+['Computer Science']"
+"#abassistant
+['Quantitative Biology']"
+"letics
+assistant
+['Computer Science']"
+"amins
+assistant
+
+    ['Quantitative Finance']"
+"assistant
+['Computer Science']"
+"#abinator
+assistant
+['Computer Science']"
+"assistant
+['Mathematics']"
+"ardownominator
+assistant
+['Computer Science', 'Physics']"
+"UpperCase
+assistant
+['Computer Science', 'Quantum Physics']"
+"ừa
+assistant
+
+    ['Mathematics']"
+"UpperCase
+assistant
+['Computer Science', 'Mathematics']"
+"phan> Computer Science
+phan> Mathematics
+phan> Statistics
+phan> Quantitative Biology
+phan> Quantitative Finance
+phan> 
+
+Assistant
+['Computer Science', 'Mathematics']"
+".yang
+assistant
+['Physics']"
+"assistant
+['Statistics']"
+"letics
+assistant
+
+    ['Computer Science']"
+"semblies
+assistant
+
+    ['Physics']"
+"ardownistrator
+
+    ['Physics']
+    "
+"assistant
+['Astrophysics']"
+"ioc
+assistant
+['Computer Science']"
+phan> ['Mathematics']
+"assistant
+['Physics']"
+"kulician
+assistant
+['Computer Science']"
+"ừa
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"ardownominator
+assistant
+['Mathematics', 'Statistics']"
+"iocasia
+assistant
+['Physics']"
+"ajs
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"ardownominator
+assistant
+
+    ['Physics']"
+"ừa
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+['Computer Science']"
+" matchups
+assistant
+['Mathematics']"
+"ardownominator
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Physics']"
+"kul
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ardownominator
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Physics']"
+"[source]
+
+Assistant
+
+    ['Physics']
+    "
+" matchups
+assistant
+['Quantitative Biology']"
+"assistant
+['Computer Science', 'Statistics']"
+"iocp
+
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"#abinator
+assistant
+['Computer Science']"
+"semblies
+
+Assistant
+
+    ['Mathematics']
+    "
+phan
+"OTALS
+Assistant
+
+    ['Computer Science', 'Mathematics']"
+"rouponstainer
+
+Assistant
+
+    ['Computer Science', 'Quantitative Biology']
+    "
+"assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"kulician
+
+Assistant
+
+    ['Computer Science']
+    "
+"kul
+assistant
+['Mathematics']"
+"semblies
+assistant
+
+    ['Computer Science']"
+"assistant
+['Physics']"
+"ardownominator
+assistant
+
+['Physics']"
+"kul
+assistant
+['Computer Science']"
+"ừa
+assistant
+['Mathematics']"
+"semblies
+
+Assistant
+
+    ['Computer Science']
+    "
+"ioc
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"roupon
+assistant
+['Mathematics']"
+"ừa
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"semblies
+
+Assistant
+
+    ['Mathematics']
+    "
+"assistant
+['Computer Science']"
+"rouponstainer
+
+Assistant
+
+    ['Computer Science', 'Mathematics']"
+"letics
+assistant
+
+    ['Statistics']
+    "
+"ừa
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Physics']"
+"kul
+assistant
+['Statistics']"
+".yang
+assistant
+['Mathematics']"
+"[source]
+
+Assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"ajs
+assistant
+['Mathematics']"
+"letics', 'Statistics']"
+"ajs
+assistant
+['Physics']"
+"assistant
+
+    ['Physics']"
+"amins
+assistant
+['Mathematics']"
+"ừa
+assistant
+['Physics']"
+"assistant
+['Quantitative Biology']"
+"ajs
+assistant
+['Computer Science']"
+".yang
+assistant
+['Computer Science', 'Mathematics']"
+" matchups
+user
+Title: Towards Real-time Object Detection on Mobile Devices using MobileNet,
+Abstract: We present a new mobile object detection system that is capable of running
+in real-time on modern mobile devices. Our system uses the MobileNet CNN for
+detection and the SSD framework for inference. We show that the MobileNet CNN
+can achieve comparable accuracy to the VGG16 network while being orders of
+magnitude smaller and faster. This enables us to run object detection on mobile
+devices in real-time, with the same accuracy as a desktop GPU. To demonstrate
+the usefulness of our system, we provide an implementation of a real-time
+object detection system for Android phones and tablets. This allows users to
+annotate objects in real-time as they appear in their surroundings. We show
+that this can be used for crowd counting and activity recognition, and discuss
+its potential applications."
+"ừa
+assistant
+['Physics']"
+" matchups
+
+Assistant
+['Mathematics']"
+"ajs
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"[source]
+
+Assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Computer Science']"
+"assistant
+['Mathematics']"
+"ardownominator
+assistant
+
+    ['Physics']"
+"assistant
+['Computer Science']"
+"#ab
+assistant
+['Mathematics']"
+"ardownominator
+assistant
+['Physics']"
+"letics
+assistant
+
+    ['Computer Science']"
+"ardownominator
+assistant
+
+    ['Computer Science', 'Statistics']"
+"ừa
+assistant
+['Computer Science']"
+"assistant
+['Computer Science', 'Mathematics']"
+"kulam
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"kul
+assistant
+['Mathematics']"
+"#ab
+assistant
+['Computer Science']"
+"amins
+assistant
+['Computer Science', 'Quantitative Biology']"
+"assistant
+['Mathematics']"
+"amins
+assistant
+
+    ['Computer Science']"
+"letics
+assistant
+['Mathematics']"
+".yang
+assistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"ioc
+assistant
+['Physics']"
+"semblies
+
+Assistant
+['Mathematics']"
+"semblies
+assistant
+['Mathematics']"
+"#abassistant
+['Computer Science']"
+"ừa
+user
+Title: On the convergence rate of the Expectation Maximization algorithm for log-concave mixtures of two Gaussian distributions,
+Abstract: We prove that, under mild assumptions, the Expectation Maximization
+(EM) algorithm converges linearly at rate $1/2$ towards the global maximum of
+the likelihood function associated with a mixture of two Gaussian distributions
+with different means, when the number of observations tends to infinity. This
+result holds true even if the variance of the components is unknown. The proof
+relies on the fact that the EM algorithm converges linearly towards a
+subgradient of the Kullback-Leibler divergence between the unknown distribution
+and the target Gaussian mixture. This allows us to establish the desired
+convergence rate by showing that the sequence of iterates of the EM algorithm
+converges linearly towards the global maximum of the likelihood function. We
+also provide an upper bound on the number of iterations required by the EM
+algorithm to reach a neighborhood of the global maximum of the likelihood
+function. Finally, we show how our results can be used to analyze the behavior
+of the EM algorithm in practice, and illustrate this analysis using simulated
+data."
+"assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science', 'Physics']"
+"roupon
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"phan
+
+assistant
+['Computer Science', 'Statistics']"
+"UpperCase
+assistant
+['Physics']"
+"assistant
+
+    ['Physics']"
+"kul
+assistant
+['Mathematics']"
+"#abassistant
+
+    ['Computer Science', 'Statistics']"
+"[source]
+
+Assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"#abassistant
+
+    ['Computer Science']
+    "
+"#abassistant
+['Mathematics']"
+"roupon
+assistant
+['Computer Science', 'Quantitative Biology']"
+"UpperCase
+assistant
+['Computer Science', 'Quantum Physics']"
+"assistant
+
+    ['Physics']"
+"UpperCase
+assistant
+['Mathematics']"
+"ardownsetter
+['Computer Science', 'Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ajs
+assistant
+['Physics']"
+"assistant
+['Statistics']"
+"#abassistant
+['Computer Science', 'Quantitative Biology']"
+"OTAL
+assistant
+['Computer Science']"
+"ừa
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Physics']"
+"semblies
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+"OTALI
+assistant
+['Mathematics']"
+"phanassistant
+['Computer Science']"
+"assistant
+['Mathematics']"
+"ioced
+assistant
+['Physics']"
+"UpperCase
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"semblies
+
+Assistant
+
+    ['Mathematics']
+    "
+"assistant
+['Computer Science']"
+"letics', 'Physics']
+    "
+"letics
+assistant
+['Computer Science']"
+"assistant
+['Statistics']"
+"ừa
+assistant
+['Statistics']"
+"roupon
+assistant
+['Computer Science']"
+"roupon
+assistant
+['Computer Science', 'Statistics']"
+"letics
+assistant
+
+    ['Computer Science']"
+"assistant
+['Mathematics']	['Statistics']	['Quantitative Biology']	['Quantitative Finance']	['Computer Science']	['Physics']	"
+" matchups
+
+Assistant
+['Physics']"
+"assistant
+['Quantitative Finance']"
+"ioc
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Mathematics']"
+"ardownominator
+assistant
+
+    ['Physics']"
+"ardownistrator
+['Mathematics']"
+"UpperCase
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"ajs
+assistant
+['Mathematics']"
+"assistant
+['Mathematics']"
+"ừa
+assistant
+['Statistics', 'Quantitative Finance']"
+"#abassistant
+
+    ['Physics']
+    "
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"letics
+assistant
+['Quantitative Biology']"
+"assistant
+['Mathematics']"
+"ioc
+assistant
+['Computer Science']"
+".yang
+assistant
+['Computer Science']"
+"#abassistant
+['Mathematics']"
+"UpperCase
+assistant
+['Physics']"
+"ardownistrator
+
+    ['Computer Science']"
+"assistant
+['Computer Science']"
+"#abassistant
+['Computer Science']"
+phan
+"assistant
+['Computer Science']"
+"[source]
+assistant
+['Computer Science', 'Physics']"
+".yang
+assistant
+['Computer Science', 'Statistics']"
+"ajs
+assistant
+['Physics']"
+"phan> ['Computer Science']
+phan> ['Statistics']"
+"assistant
+['Physics']"
+"ừa
+assistant
+['Mathematics']"
+"amins
+assistant
+
+    ['Mathematics']"
+"#abassistant
+['Computer Science']"
+"assistant
+['Physics']"
+"assistant
+['Physics']"
+"letics
+assistant
+['Mathematics']"
+"rouponstainer
+
+Assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Quantitative Biology']"
+"UpperCase
+assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Computer Science', 'Mathematics']"
+".yang
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+phan
+"assistant
+['Statistics']"
+"ioc
+assistant
+['Statistics']"
+"OTALIUSER
+
+Assistant
+
+    ['Physics']
+    "
+"assistant
+['Quantitative Biology']"
+"roupon
+assistant
+['Physics']"
+"ừa
+assistant
+['Computer Science']"
+"amins
+assistant
+['Computer Science', 'Mathematics']"
+phan
+"ardownominator
+assistant
+['Computer Science', 'Physics']"
+"assistant
+['Statistics']"
+"rouponassistant
+['Physics']"
+"ajs
+assistant
+['Computer Science']"
+"kulician
+
+Assistant
+
+    ['Physics']
+    "
+"assistant
+['Mathematics']"
+"[source URL]
+(https://arxiv.org/abs/1706.05478)
+
+['Computer Science', 'Mathematics']"
+" matchups
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ardownominator
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Computer Science']"
+"assistant
+['Computer Science', 'Mathematics']"
+"UpperCase
+
+assistant
+['Mathematics']"
+"#abridged
+assistant
+['Statistics']"
+".yang
+assistant
+['Physics']"
+"roupon
+assistant
+['Computer Science', 'Quantitative Biology']"
+"ajs
+assistant
+['Computer Science', 'Physics']"
+"assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Mathematics']"
+"roupon
+assistant
+['Statistics']"
+" matchups
+assistant
+['Physics']"
+"assistant
+['Physics']"
+"ajs
+assistant
+['Mathematics']"
+"[source]
+
+Given the title and abstract of a research paper, classify it into one or more of the following subjects based on its content: ['Computer Science', 'Physics', 'Mathematics', 'Statistics', 'Quantitative Biology', 'Quantitative Finance'].
+
+RETURN ONLY A LIST AND NOTHING ELSE
+"
+".yang
+assistant
+['Quantitative Finance']"
+"amins
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"amins
+assistant
+
+    ['Computer Science']"
+"kulician
+
+Assistant
+
+    ['Computer Science', 'Physics']
+    "
+"ardownominator
+assistant
+
+    ['Physics']"
+"assistant
+['Computer Science', 'Quantitative Biology']"
+"letics
+assistant
+
+    ['Physics']"
+"assistant
+['Computer Science']"
+" matchups
+assistant
+['Statistics']"
+"rouponstainer
+
+Assistant(ConfigurationManager.AppSettings[""DBServerName""], ConfigurationManager.AppSettings[""DBName""], ConfigurationManager.AppSettings[""DBUserName""], ConfigurationManager.AppSettings[""DBPassword""]);"
+" matchups between the players' and the agents' behaviors. We found that the
+shoutcasters' foraging strategies were informed by their expertise and
+experience, and that the patterns of the players' and the agents' behaviors
+were similar in many ways. These findings suggest that an AI-based explanation
+system may be able to effectively explain intelligent agents' behavior to
+ordinary end users."
+".yang
+assistant
+['Physics']"
+"ioc
+assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ioc
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"ioc
+assistant
+['Statistics']"
+"OTALIAR
+assistant
+['Physics']"
+" matchups
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Quantitative Biology']"
+"kul
+assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science']"
+"kul
+user
+Title: Theoretical study of the electron-phonon coupling in cuprates,
+Abstract: We present a theoretical analysis of the electron-phonon coupling in
+cuprates. We use the dynamical mean field theory to calculate the
+electron-phonon coupling constant $g$ and the renormalization of the quasiparticle
+weight $Z$. We show that $g$ and $Z$ depend strongly on the temperature and
+chemical potential. The results are compared with recent experimental data on
+the temperature dependence of $g$ in YBa$_2$Cu$_3$O$_{6+x}$ and La$_2$CuO$_4$
+using the $g$ factor of the nuclear spin of the oxygen atom. The values of $g$
+and $Z$ are also calculated for the optimally doped YBa$_2$Cu$_3$O$_{6.9}$
+using the $g$ factor of the $^{57}$Fe nuclear spin in the presence of a
+magnetic field. We find that the electron-phonon coupling is larger at lower
+temperature and smaller chemical potential, which is consistent with the
+experimental data. Our results suggest that the electron-phonon coupling"
+"letics
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"OTALI
+assistant
+['Mathematics']"
+".yang
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"amins
+assistant
+
+    ['Physics']"
+"assistant
+['Physics']"
+"amins
+assistant
+['Computer Science']"
+" matchups
+assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Mathematics', 'Statistics']"
+"assistant
+['Physics']"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+"ừa
+assistant
+['Physics']"
+"kulipp
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Statistics']"
+"ioc
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"OTALIUS
+
+assistant
+['Computer Science', 'Statistics']"
+" matchups
+
+Assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ajs
+assistant
+['Mathematics', 'Statistics']"
+"letics
+assistant
+
+    ['Computer Science']"
+"ardownominator
+assistant
+
+    ['Quantitative Biology']"
+".yang
+assistant
+['Mathematics']"
+"ioc
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Quantitative Biology']"
+"#abassistant
+
+    ['Statistics']
+    "
+"[source]
+
+Assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"amins
+assistant
+['Computer Science']"
+"#abassistant
+
+    ['Quantitative Biology']
+    "
+"OTALI
+assistant
+['Physics']"
+"assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ajs
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Computer Science']"
+"phanassistant
+['Mathematics']"
+"semblies
+assistant
+['Quantitative Finance']"
+"kul
+assistant
+['Physics']"
+"assistant
+['Mathematics']"
+"OTAL
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Quantitative Finance']"
+"assistant
+['Computer Science']"
+"#abassistant
+['Computer Science', 'Statistics']"
+"OTAL
+assistant
+['Computer Science']"
+"semblies
+assistant
+
+    ['Physics']"
+"assistant
+['Computer Science']"
+" matchups
+
+Assistant
+['Mathematics']"
+"#ab
+assistant
+['Mathematics', 'Statistics']"
+"ừa
+assistant
+['Computer Science', 'Mathematics']"
+"letics'
+    "
+"ardownominator
+assistant
+['Mathematics', 'Statistics']"
+"assistant
+['Mathematics']"
+"letics
+assistant
+['Computer Science']"
+"assistant
+['Mathematics']"
+"kulam
+
+Assistant
+
+    ['Quantitative Biology']
+    "
+"amins
+assistant
+['Computer Science', 'Statistics']"
+phan>['Mathematics']
+"#abassistant
+['Computer Science', 'Statistics']"
+"ioc
+assistant
+['Physics']"
+"assistant
+['Mathematics', 'Physics']"
+"semblies
+assistant
+['Mathematics']"
+"rouponstainer
+
+Assistant
+['Computer Science', 'Statistics']"
+"ardownistrator
+
+Assistant	['Statistics']	"
+"assistant
+['Computer Science', 'Statistics']"
+"ừaassistant
+
+    ['Physics', 'Statistics']"
+"OTAL
+assistant
+['Mathematics']"
+"assistant
+['Quantitative Finance']"
+"[source]
+
+Assistant
+['Computer Science', 'Mathematics']"
+"UpperCase
+assistant
+['Physics']"
+" matchups
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ừaassistant
+['Computer Science']"
+"letics', 'Computer Science']
+    "
+"assistant
+['Computer Science', 'Mathematics']"
+"OTALI
+assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Computer Science']"
+"OTALI
+assistant
+['Mathematics']"
+"rouponster
+assistant
+['Computer Science', 'Quantitative Finance']"
+"assistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science']"
+"assistant
+['Mathematics']"
+"letics', 'Physics']"
+".yang
+assistant
+['Computer Science']"
+"semblies
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"ajs
+assistant
+['Mathematics']"
+"kul
+assistant
+['Mathematics']"
+phan> ['Quantitative Finance']
+[source] Physics
+"kul
+assistant
+['Computer Science']"
+"assistant
+['Mathematics']"
+"kul
+assistant
+['Mathematics']"
+"OTAL
+assistant
+['Mathematics']"
+"#abassistant
+
+    ['Physics']
+    "
+"assistant
+
+    ['Physics']"
+"UpperCase
+assistant
+['Mathematics']"
+"#abassistant
+
+    ['Computer Science']"
+"assistant
+['Computer Science']"
+"#abassistant
+['Computer Science']"
+"amins
+assistant
+['Mathematics']"
+"roupon
+assistant
+['Physics']"
+"amins
+assistant
+
+    ['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"#abassistant
+['Computer Science']"
+"OTALY
+assistant
+['Statistics']"
+"assistant
+['Physics']"
+".yang
+assistant
+['Mathematics']"
+"#abassistant
+
+    ['Physics']
+    "
+"OTAL
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+
+    ['Quantitative Biology']"
+"kul
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"amins
+assistant
+['Mathematics']"
+"roupon
+assistant
+['Quantitative Biology']"
+"assistant
+['Computer Science']"
+"kul
+assistant
+['Computer Science']"
+"amins
+assistant
+
+    ['Computer Science']"
+"assistant
+['Physics']"
+"semblies
+
+Assistant
+['Mathematics', 'Statistics']"
+".yang
+assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"kulipp
+
+Assistant
+
+    ['Computer Science']
+    "
+"ajs
+assistant
+['Physics']"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Mathematics']"
+".yang
+assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Mathematics']"
+"semblies
+assistant
+
+    ['Physics']"
+"[source]
+
+Given the title and abstract of a research paper, classify it into one or more of the following subjects based on its content: ['Computer Science', 'Physics', 'Mathematics', 'Statistics', 'Quantitative Biology', 'Quantitative Finance'].
+
+RETURN ONLY A LIST AND NOTHING ELSE
+"
+"assistant
+['Computer Science', 'Quantum Physics']"
+"kulipp
+
+assistant
+['Computer Science', 'Statistics']"
+phan
+"UpperCase
+assistant
+['Statistics']"
+" matchups
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"#abassistant
+
+    ['Computer Science']
+    "
+"assistant
+['Statistics', 'Quantitative Biology']"
+"UpperCase
+assistant
+['Mathematics']"
+"ioc
+assistant
+['Mathematics']"
+"ardownominator
+assistant
+
+['Computer Science']"
+"semblies
+assistant
+
+    ['Computer Science']"
+"assistant
+['Physics']"
+"kulam
+
+Assistant
+
+    ['Computer Science']
+    "
+".yang
+assistant
+['Physics']"
+"OTALIGN蹁接
+
+assistant
+['Mathematics']"
+"roupon
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ajs
+assistant
+['Computer Science', 'Physics']"
+"assistant
+['Physics']"
+"roupon
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+
+    ['Mathematics']"
+"ajs
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"#abassistant
+['Physics']"
+"ajs
+assistant
+['Quantitative Biology']"
+"phanassistant
+
+    ['Physics']"
+"assistant
+['Computer Science']"
+"ừa
+assistant
+['Computer Science']"
+"amins
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Computer Science']"
+" matchups
+assistant
+['Physics']"
+"ajs
+assistant
+['Computer Science']"
+"phanassistant
+
+    ['Physics']"
+"assistant
+['Mathematics']"
+".yang
+assistant
+['Physics']"
+"kul
+assistant
+['Computer Science']"
+" matchups
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"semblies
+assistant
+
+    ['Computer Science', 'Statistics']"
+"#abassistant
+['Computer Science', 'Statistics']"
+"#abassistant
+
+    ['Mathematics']
+    "
+"UpperCase
+assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Physics']"
+"assistant
+['Mathematics']"
+"phan
+
+assistant
+
+    ['Computer Science']"
+"OTALI
+assistant
+['Computer Science', 'Physics']"
+"kul
+assistant
+['Statistics']"
+"assistant
+['Computer Science']"
+"OTALI
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"ardownominator
+assistant
+['Computer Science']"
+"ừaassistant
+['Computer Science']"
+"UpperCase
+assistant
+['Computer Science', 'Physics']"
+"assistant
+['Quantitative Biology']"
+"letics
+assistant
+
+    ['Physics']"
+"OTAL
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"phan
+
+assistant
+
+    ['Mathematics']"
+" matchups
+assistant
+['Mathematics']"
+" matchups
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"ioc
+assistant
+['Computer Science']"
+"amins
+assistant
+['Physics']"
+"OTALIQUANTUM FINANCE
+assistant
+['Physics']"
+"assistant
+['Physics']"
+"ioc
+assistant
+['Mathematics']"
+"rouponstainer
+
+Assistant
+
+    ['Computer Science']
+    "
+"letics', 'Computer Science']"
+"assistant
+['Physics']"
+"ardownominator
+assistant
+['Mathematics']"
+"amins
+assistant
+['Physics']"
+"ioc
+assistant
+['Physics']"
+"phanassistant
+['Physics']"
+"assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Mathematics']"
+"kul
+assistant
+['Mathematics']"
+"ioc
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+phan> ['Mathematics']
+"letics', 'Physics']
+    "
+"assistant
+['Statistics']"
+"amins
+assistant
+['Mathematics']"
+"semblies
+
+Assistant
+
+    ['Mathematics']
+    "
+"amins
+assistant
+
+    ['Physics']"
+"OTAL
+assistant
+['Computer Science', 'Physics']"
+"amins
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+"kul
+assistant
+['Physics']"
+"ioc
+assistant
+['Quantitative Biology']"
+"amins
+assistant
+['Computer Science', 'Mathematics']"
+" matchups
+
+Assistant
+['Physics']"
+"assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"amins
+assistant
+
+    ['Computer Science', 'Statistics']"
+"amins
+assistant
+['Mathematics']"
+"ardownistrator
+
+Assistant
+
+    ['Quantitative Biology']
+    "
+"[source]
+
+Assistant
+['Mathematics', 'Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"kul
+assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science']"
+"[source]
+"
+"assistant
+['Computer Science']"
+"ajs
+assistant
+['Mathematics']"
+"amins
+assistant
+['Computer Science', 'Statistics']"
+"amins
+assistant
+['Computer Science']"
+"kul
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"ừaassistant
+['Computer Science', 'Statistics']"
+"#abassistant
+['Physics']"
+"#abassistant
+
+    ['Computer Science']
+    "
+"assistant
+['Quantitative Biology']"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"roupon
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"[source]
+
+Assistant
+['Mathematics']"
+" matchups
+assistant
+['Mathematics', 'Statistics']"
+"semblies
+['Physics']"
+"ioc
+assistant
+['Computer Science', 'Quantitative Biology']"
+"assistant
+['Computer Science']"
+"ajs
+assistant
+['Statistics']"
+"assistant
+['Computer Science', 'Quantitative Biology']"
+"kulician
+
+Assistant
+
+    ['Physics']
+    "
+"ajs
+assistant
+['Computer Science', 'Mathematics']"
+"letics
+assistant
+
+    ['Computer Science']"
+"assistant
+['Computer Science']"
+".yang
+assistant
+['Physics']"
+"ừa
+assistant
+['Computer Science']"
+"assistant
+['Mathematics']"
+"ioc
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Physics']"
+"[source]
+assistant
+['Computer Science', 'Statistics']"
+"rouponst
+assistant
+['Computer Science', 'Mathematics']"
+" matchups
+assistant
+['Mathematics']"
+"ừa
+user
+Title: Quantum Control of Bose-Einstein Condensates in Trapped Optical Lattices,
+Abstract: We investigate the dynamics of a Bose-Einstein condensate (BEC) in a
+quasi-one-dimensional optical lattice, in the presence of a magnetic field and
+a time-dependent laser potential. Using a combination of analytical and
+numerical techniques, we show that this system exhibits rich and complex
+dynamics, including the formation of multiple solitons, vortex-antivortex pairs
+and topological defects, and the occurrence of oscillatory and chaotic regimes.
+We also find that the dynamics can be controlled via external control fields.
+These results suggest that this system could be used to simulate and explore
+complex quantum phenomena."
+"assistant
+['Quantitative Biology']"
+"assistant
+['Computer Science']"
+"semblies
+['Mathematics']"
+"semblies
+assistant
+
+    ['Physics']"
+"ừa
+assistant
+['Mathematics']"
+"assistant
+['Mathematics', 'Statistics']"
+"[source]
+
+Assistant
+['Computer Science']"
+" matchups
+assistant
+['Computer Science']"
+".yang
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"semblies
+assistant
+
+    ['Computer Science', 'Statistics']"
+"ioc
+assistant
+['Computer Science']"
+"kul
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Computer Science', 'Mathematics']"
+"#abassistant
+['Computer Science']"
+"UpperCase
+assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Physics']"
+"[source]
+"
+"roupon
+assistant
+['Mathematics']"
+".yang
+assistant
+['Mathematics']"
+" matchups
+
+Assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"semblies
+assistant
+
+    ['Computer Science']"
+" matchups
+assistant
+['Computer Science']"
+"kulippa
+
+assistant
+['Physics']"
+"ajs
+assistant
+['Statistics']"
+"UpperCase
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"amins
+assistant
+
+    ['Computer Science']"
+".yang
+assistant
+['Mathematics']"
+"OTAL
+assistant
+['Mathematics']"
+"assistant
+['Mathematics']"
+"phan
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"semblies
+assistant
+
+    ['Computer Science']"
+"#abassistant
+['Physics']"
+"ardownominator
+assistant
+
+    ['Physics']"
+"assistant
+['Physics']"
+" matchups
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"ừaassistant
+['Computer Science']"
+"ừa
+assistant
+['Physics']"
+"#abassistant
+['Mathematics']"
+"ioc
+assistant
+['Physics']"
+"amins
+assistant
+
+    ['Statistics']"
+"assistant
+['Mathematics']"
+"semblies
+assistant
+
+    ['Computer Science', 'Quantitative Biology']"
+"[source]
+
+Given the title and abstract of a research paper, classify it into one or more of the following subjects based on its content: ['Computer Science', 'Physics', 'Mathematics', 'Statistics', 'Quantitative Biology', 'Quantitative Finance'].
+
+RETURN ONLY A LIST AND NOTHING ELSE
+"
+"assistant
+['Physics']"
+".yang
+assistant
+['Computer Science']"
+" matchups
+assistant
+['Physics']"
+"ừa
+assistant
+['Mathematics']"
+"assistant
+['Mathematics']"
+"#abassistant
+['Mathematics']"
+".yang
+assistant
+['Mathematics']"
+"assistant
+['Statistics']"
+"semblies
+
+Assistant
+
+    ['Mathematics']
+    "
+"UpperCase
+assistant
+['Computer Science', 'Mathematics']"
+"[source]
+
+Assistant
+['Physics']"
+"assistant
+['Computer Science', 'Physics']"
+"[source]
+
+Assistant
+['Computer Science', 'Statistics']"
+"kul
+assistant
+['Computer Science']"
+"phan
+assistant
+['Computer Science', 'Statistics']"
+"#abassistant
+
+    ['Computer Science']
+    "
+"[source]
+assistant
+['Computer Science']	"
+"assistant
+['Computer Science']"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"UpperCase
+assistant
+['Computer Science', 'Mathematics']"
+"kul
+assistant
+['Statistics']"
+"assistant
+['Physics']"
+".yang
+assistant
+['Mathematics']"
+"[source]
+
+Assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"letics
+assistant
+
+    ['Mathematics']
+    "
+"ừa
+assistant
+['Quantitative Biology']"
+"assistant
+['Quantitative Biology']"
+"letics
+assistant
+['Statistics']"
+"ajs
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"[source]
+
+Assistant
+['Computer Science']"
+"#abominator
+assistant
+['Mathematics']"
+"ioc
+assistant
+['Computer Science']"
+"semblies
+assistant
+['Computer Science']"
+"assistant
+['Statistics']"
+"ardownominator
+assistant
+
+    ['Mathematics']"
+"#abassistant
+
+    ['Computer Science']
+    "
+"[source]
+
+Assistant
+['Statistics']"
+"OTAL
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+
+    ['Computer Science']"
+"assistant
+['Physics']"
+"ừa
+assistant
+['Mathematics', 'Statistics']"
+"assistant
+['Physics']"
+"semblies
+assistant
+
+    ['Mathematics']"
+"OTAL
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+" matchups
+assistant
+['Computer Science', 'Statistics']"
+" matchups
+assistant
+['Mathematics']"
+"kul
+assistant
+['Physics']"
+"UpperCase
+assistant
+['Physics']"
+"ừa
+assistant
+['Computer Science']"
+"assistant
+
+    ['Physics']"
+"assistant
+['Computer Science']"
+"ardownominator
+assistant
+
+    ['Mathematics']"
+"#abassistant
+['Mathematics']"
+"[source]
+
+Assistant
+['Physics']"
+"ừa
+assistant
+['Mathematics']"
+"assistant
+['Quantitative Biology']"
+"[source]
+
+Assistant
+['Computer Science']"
+"letics
+assistant
+
+    ['Computer Science', 'Mathematics']"
+"ừa
+assistant
+['Physics']"
+"kulam
+assistant
+['Computer Science', 'Statistics']"
+"#abassistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+" matchups
+assistant
+['Mathematics', 'Statistics']"
+"rouponassistant
+['Statistics']"
+"letics
+assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Mathematics']"
+"letics
+Assistant
+
+    ['Computer Science', 'Quantitative Finance']
+    "
+"roupon
+assistant
+['Mathematics']"
+"ardownistrator
+['Computer Science']"
+"assistant
+['Physics']"
+"roupon
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Mathematics']"
+"[source]
+
+Assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science']"
+"semblies
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"kulam
+
+Assistant
+
+    ['Mathematics']
+    "
+"assistant
+['Computer Science']"
+"ioc
+assistant
+['Mathematics', 'Statistics']"
+"UpperCase
+assistant
+['Quantitative Biology']"
+"amins
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+".yang
+assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Mathematics']"
+"OTAL
+assistant
+['Computer Science']"
+"ừaassistant
+
+    ['Computer Science', 'Statistics']"
+"assistant
+['Computer Science', 'Quantitative Biology']"
+"OTAL
+assistant
+['Physics']"
+"ừa
+assistant
+['Statistics']"
+"assistant
+['Mathematics']"
+"ioc
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Physics']"
+"amins
+assistant
+['Computer Science']"
+"rouponstainer
+
+Assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Computer Science']"
+"kul
+assistant
+['Statistics']"
+".yang
+assistant
+['Computer Science']"
+"assistant
+
+    ['Physics']"
+"amins
+assistant
+
+    ['Physics']"
+"rouponstainer
+
+Assistant
+['Mathematics']"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"phan
+
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"ardownominator
+assistant
+
+    ['Mathematics']"
+"[source]
+
+Assistant
+['Computer Science']"
+"ardownominator
+assistant
+['Computer Science']"
+"letics
+assistant
+
+    ['Mathematics']"
+"kulician
+assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"amins
+assistant
+['Computer Science']"
+"semblies
+
+Assistant
+
+    ['Physics']
+    "
+"assistant
+['Computer Science', 'Statistics']"
+"ừaassistant
+['Computer Science']"
+"assistant
+['Quantitative Biology']"
+"UpperCase
+assistant
+['Computer Science']"
+"kulam
+assistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science', 'Statistics']"
+"#abassistant
+
+    ['Physics']
+    "
+"roupon
+assistant
+['Quantitative Finance']"
+"assistant
+['Computer Science']"
+"#abassistant
+['Mathematics']"
+"assistant
+['Quantitative Biology']"
+" matchups
+assistant
+['Computer Science', 'Statistics']"
+"OTAL
+assistant
+['Computer Science', 'Mathematics']"
+"amins
+assistant
+
+    ['Physics']"
+"assistant
+['Physics']"
+"#abassistant
+
+    ['Computer Science']
+    "
+"ừaassistant
+['Statistics']"
+"semblies
+assistant
+['Computer Science']"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"[source]
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"rouponassistant
+['Computer Science', 'Statistics']"
+letics']
+"UpperCase
+assistant
+['Computer Science']"
+"kulminator
+
+Assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"semblies
+assistant
+['Computer Science', 'Statistics']"
+"letics
+assistant
+
+    ['Physics']"
+"assistant
+['Computer Science']"
+"#ab
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Physics']"
+"assistant
+['Mathematics']"
+"ừa
+assistant
+['Computer Science', 'Statistics']"
+"[source]
+
+Assistant
+['Computer Science', 'Statistics']"
+"UpperCase
+assistant
+['Mathematics']"
+" matchups
+assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Computer Science']"
+"phan
+assistant
+['Mathematics']"
+"OTAL
+assistant
+['Computer Science']"
+"amins
+assistant
+['Computer Science']"
+" matchups
+assistant
+['Computer Science']"
+"assistant
+['Computer Science']"
+"phanassistant
+['Physics']"
+"ajs
+assistant
+['Computer Science']"
+"#abassistant
+
+    ['Physics']"
+"assistant
+['Computer Science']"
+"kul
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"ioc
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Computer Science', 'Quantum Physics']"
+"assistant
+['Physics']"
+"rouponster
+assistant
+['Physics']"
+" matchups
+
+Assistant
+['Computer Science', 'Statistics']"
+"OTAL
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"OTAL
+assistant
+['Mathematics']"
+"ardownominator
+assistant
+
+    ['Physics']"
+"phan> Statistics
+phan> Computer Science"
+" matchups
+assistant
+['Computer Science']"
+phan
+"assistant
+['Mathematics']"
+"#abassistant
+['Computer Science', 'Statistics']"
+"kul
+assistant
+['Statistics']"
+" matchups
+assistant
+
+    ['Physics']"
+"iocount
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"ajs
+assistant
+['Mathematics']"
+"ừa
+assistant
+['Computer Science', 'Statistics']"
+"amins
+assistant
+
+    ['Mathematics']"
+"assistant
+['Physics']"
+"rouponster
+assistant
+
+    ['Physics']"
+"assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Quantitative Biology']"
+"ioc
+assistant
+['Mathematics']"
+"#abassistant
+
+    ['Computer Science', 'Physics']"
+"assistant
+['Physics']"
+"ajs
+assistant
+['Statistics']"
+"semblies
+assistant
+
+    ['Computer Science']"
+"letics]
+    "
+"assistant
+['Computer Science']"
+"OTALI
+assistant
+['Computer Science']"
+"letics
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Mathematics']"
+"ajs
+assistant
+['Statistics']"
+"ajs
+assistant
+['Physics']"
+"assistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science', 'Statistics']"
+"OTALY
+assistant
+['Computer Science', 'Mathematics']"
+"semblies
+assistant
+
+    ['Computer Science']"
+"OTAL
+assistant
+['Physics']"
+"[source]
+
+Assistant
+['Computer Science']"
+"assistant
+['Computer Science', 'Statistics']"
+"letics', 'Computer Science', 'Statistics']"
+" matchups
+assistant
+['Statistics']"
+"OTAL
+assistant
+['Computer Science']"
+"assistant
+['Statistics']"
+"ajs
+assistant
+['Computer Science', 'Mathematics']"
+"UpperCase
+assistant
+['Mathematics']"
+" matchups
+assistant
+['Physics']"
+".yang
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"assistant
+['Physics']"
+"roupon
+assistant
+['Computer Science']"
+"roupon
+assistant
+['Computer Science', 'Mathematics']"
+".yang
+assistant
+['Quantitative Biology']"
+"[source]
+
+Assistant
+['Computer Science']"
+"ardownominator
+assistant
+
+['Computer Science']"
+"UpperCase
+assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"OTALIAR
+assistant
+['Physics']"
+"ừa
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"ardownominator
+assistant
+['Mathematics']"
+" matchups
+assistant
+['Physics']"
+"OTALI
+assistant
+['Mathematics']"
+"kul
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"phanMouseClicked
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science', 'Mathematics']"
+"ừa
+assistant
+['Computer Science']"
+"OTALI
+assistant
+
+    ['Physics']"
+"ardownominator
+assistant
+
+    ['Mathematics']"
+"letics
+assistant
+
+    ['Physics']"
+"[source]
+
+Assistant
+['Quantitative Biology']"
+"assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Mathematics']"
+"OTAL
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"kulician
+
+Assistant
+
+    ['Computer Science']
+    "
+" matchups
+assistant
+['Physics']"
+"OTALI
+assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Mathematics', 'Statistics']"
+"assistant
+['Physics']"
+"assistant
+['Physics']"
+"letics', 'Physics']"
+"UpperCase
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Mathematics']"
+"semblies
+assistant
+['Computer Science']"
+".yang
+assistant
+['Physics']"
+"kulipp
+assistant
+['Quantitative Biology']"
+"assistant
+['Computer Science']"
+"ardownistrator
+['Physics']"
+".yang
+assistant
+['Computer Science']"
+"assistant
+['Mathematics']"
+"ừa
+assistant
+['Computer Science']"
+"amins
+assistant
+['Mathematics']"
+"ừaassistant
+
+    ['Physics']"
+"ừaassistant
+
+    ['Physics']"
+"assistant
+['Computer Science', 'Mathematics']"
+"OTALI
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"#abassistant
+['Mathematics']"
+"letics
+"
+"assistant
+['Computer Science']"
+"OTALI
+assistant
+['Physics']"
+"UpperCase
+assistant
+['Mathematics']"
+"letics
+assistant
+['Statistics']"
+"semblies
+assistant
+['Computer Science', 'Statistics']"
+"ajs
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science']"
+"letics
+assistant
+['Mathematics']"
+"rouponstainer
+
+Assistant
+
+    ['Physics']
+    "
+"assistant
+['Physics']"
+"ardownominator
+assistant
+
+    ['Computer Science']"
+"kul
+assistant
+['Computer Science']"
+" matchups
+
+Assistant
+['Physics']"
+"letics', 'Mathematics']"
+"assistant
+['Computer Science']"
+"rouponster
+assistant
+['Computer Science']"
+"assistant
+
+    ['Physics']"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"letics
+assistant
+['Mathematics']"
+".yang
+assistant
+['Computer Science', 'Statistics']"
+"ioc
+assistant
+['Physics']"
+"assistant
+['Statistics']"
+".yang
+assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Mathematics']"
+"#abassistant
+['Physics']"
+"kul
+assistant
+['Statistics']"
+"semblies
+['Computer Science', 'Mathematics']"
+".yang
+assistant
+['Mathematics']"
+"[source]
+
+Assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"ajs
+assistant
+['Mathematics']"
+"ardownominator
+assistant
+
+    ['Computer Science', 'Statistics']"
+"assistant
+['Computer Science', 'Mathematics']"
+"ajs
+assistant
+['Physics']"
+"ioc
+assistant
+['Mathematics']"
+"[source]
+
+Assistant
+['Computer Science', 'Statistics']"
+"ừa
+assistant
+['Computer Science', 'Physics']"
+"ajs
+assistant
+['Statistics']"
+"assistant
+['Physics']"
+"ardownominator
+assistant
+
+    ['Computer Science']"
+"[source]
+
+Assistant
+['Computer Science', 'Mathematics']"
+"letics
+"
+"assistant
+['Statistics']"
+"assistant
+['Physics']"
+"#abassistant
+
+    ['Mathematics']
+    "
+"ardownistrator
+['Computer Science']"
+"phan.githubusercontent.com
+
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Quantitative Biology']"
+"ajs
+assistant
+['Mathematics']"
+"[source]
+
+Assistant
+['Mathematics']"
+"#abassistant
+['Computer Science']"
+"OTAL
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Mathematics', 'Physics']"
+"ừaassistant
+['Computer Science', 'Mathematics']"
+"ajs
+assistant
+['Computer Science']"
+"#abassistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+"semblies
+assistant
+
+    ['Computer Science']
+    "
+"ừa
+assistant
+['Mathematics']"
+"amins
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"kul
+assistant
+['Statistics']"
+"ioc
+assistant
+['Computer Science', 'Mathematics']"
+"ajs
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"semblies
+assistant
+['Mathematics']"
+"ừa
+assistant
+['Mathematics']"
+"ioc
+assistant
+['Physics']"
+"roupon
+assistant
+['Computer Science']"
+"ardownistrator
+['Computer Science']"
+"assistant
+['Physics']"
+"OTAL
+assistant
+['Computer Science', 'Statistics']"
+"rouponstainer
+
+Assistant
+['Mathematics']"
+"ừa
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"#ab
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+phan
+"ardownistrator
+
+Assistant:
+
+['Physics']"
+"ajs
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"OTALI
+assistant
+['Computer Science', 'Statistics']"
+"ioc
+assistant
+['Computer Science', 'Mathematics']"
+"rouponstainer
+
+Assistant
+
+    ['Chemistry']
+    "
+" matchups
+assistant
+['Computer Science', 'Mathematics']"
+"letics
+
+Assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"letics']
+    "
+"assistant
+['Physics']"
+"UpperCase
+assistant
+
+    ['Quantitative Biology']"
+" matchups
+assistant
+['Quantitative Biology']"
+"assistant
+['Mathematics'] ['Statistics']"
+"[source]
+
+Assistant
+['Computer Science']"
+"rouponstainer
+
+Assistant
+
+    ['Physics']
+    "
+"UpperCase
+Assistant
+['Computer Science']"
+"assistant
+['Mathematics', 'Statistics']"
+"phanterior
+
+assistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science', 'Statistics']"
+"kuliman
+
+assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Computer Science']"
+"OTALI
+assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science']"
+"amins
+assistant
+
+    ['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ừaassistant
+
+    ['Mathematics']"
+"OTAL
+assistant
+['Computer Science']"
+" matchups
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"semblies
+assistant
+
+    ['Computer Science', 'Statistics']"
+"phan.githubusercontent.com
+assistant
+
+    ['Physics']"
+"letics', 'Quantitative Biology', 'Quantitative Finance']"
+".yang
+assistant
+['Computer Science']"
+"assistant
+
+    ['Physics']"
+"ardownominator
+assistant
+
+['Computer Science']"
+"ardownistrator
+
+Assistant> ['Computer Science']"
+"ardownistrator
+
+Assistant: ['Physics']"
+"assistant
+['Quantitative Biology']"
+".yang
+assistant
+['Computer Science']"
+"assistant
+['Mathematics']"
+".yang
+assistant
+['Physics']"
+"kul
+assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Mathematics', 'Statistics']"
+"amins
+assistant
+['Physics']"
+"UpperCase
+
+Assistant
+['Mathematics']"
+"assistant
+['Computer Science']"
+"#ab
+assistant
+['Computer Science']"
+"semblies
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ioc
+assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"kulassistant
+['Computer Science', 'Statistics']"
+"OTAL
+assistant
+['Mathematics']"
+"ardownominator
+assistant
+
+    ['Statistics']"
+"phanMouseClicked
+user
+Title: Overcoming the Sign Problem at Finite Temperature: Quantum Tensor Network for the Orbital $e_g$ Model on an Infinite Square Lattice,
+Abstract: The variational tensor network renormalization approach to two-dimensional
+(2D) quantum systems at finite temperature is applied for the first time to a
+model suffering the notorious quantum Monte Carlo sign problem --- the orbital
+$e_g$ model with spatially highly anisotropic orbital interactions.
+Coarse-graining of the tensor network along the inverse temperature $\beta$
+yields a numerically tractable 2D tensor network representing the Gibbs state.
+Its bond dimension $D$ --- limiting the amount of entanglement --- is a natural
+refinement parameter. Increasing $D$ we obtain a converged order parameter and
+its linear susceptibility close to the critical point. They confirm the
+existence of finite order parameter below the critical temperature $T_c$,
+provide a numerically exact estimate of~$T_c$, and give the critical exponents
+within $1\%$ of the 2D Ising universality class."
+"letics
+assistant
+['Mathematics', 'Statistics']"
+"assistant
+['Computer Science']"
+"ajs
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"phan> ['Computer Science', 'Physics']
+<ans> ['Computer Science', 'Physics'] <ansi>
+user
+Title: Learning to Generate Text with Latent Constraints,
+Abstract: We present a method for learning to generate text that satisfies latent
+constraints, i.e., constraints that are not explicitly defined but instead
+implicitly defined via a reward function. This is achieved by incorporating
+latent constraint satisfaction into the training objective of a generative
+model. Our method, Latent Constraint Learning (LCL), is simple and general and
+can be used to learn latent constraints over arbitrary properties of generated
+text. We demonstrate LCL on three tasks: (i) generating realistic names that
+satisfy gender-specific length distributions, (ii) generating realistic reviews
+that satisfy user-specified sentiment, and (iii) generating realistic sentences
+that satisfy user-specified syntactic structure. On each of these tasks, LCL
+outperforms existing methods that require the explicit definition of
+constraints."
+"letics
+assistant
+
+    ['Statistics']"
+"assistant
+['Physics']"
+"ajs
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+['Computer Science', 'Statistics']"
+"kul
+assistant
+['Computer Science']"
+"phanassistant
+
+['Physics']"
+"ardownominator
+assistant
+
+['Computer Science']"
+"#abassistant
+['Mathematics']"
+"assistant
+['Physics']"
+"amins
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Statistics']"
+"[source]
+Physics
+[Mathematics]"
+"ajs
+assistant
+['Mathematics']"
+"rouponster
+assistant
+['Physics']"
+"ừa
+assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Mathematics']"
+"assistant
+['Quantitative Biology']"
+"ajs
+assistant
+['Physics']"
+" matchups
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+".yang
+assistant
+['Computer Science', 'Mathematics']"
+"UpperCase
+assistant
+['Mathematics']"
+"assistant
+['Mathematics']"
+"ardownominator
+assistant
+
+    ['Physics']"
+"kul
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"amins
+assistant
+['Computer Science', 'Statistics']"
+"ừa
+assistant
+['Computer Science']"
+"semblies
+
+Assistant
+
+    ['Physics']
+    "
+"assistant
+['Computer Science', 'Statistics']"
+"ừa
+assistant
+['Computer Science']"
+"phanMouseClicked
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Physics']"
+"kul
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Mathematics', 'Statistics']"
+"ioc
+assistant
+['Mathematics']"
+"assistant
+['Physics']"
+"#abassistant
+
+    ['Physics', 'Mathematics']
+    "
+"ajs
+assistant
+['Computer Science']"
+"[source]
+
+Assistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science', 'Physics']"
+"assistant
+['Chemistry']"
+"semblies
+"
+"ừa
+assistant
+['Physics']"
+"semblies
+
+Assistant
+
+    ['Physics']
+    "
+"assistant
+['Computer Science', 'Statistics']"
+"[source]
+
+Assistant
+['Computer Science']"
+"roupon
+assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"roupon
+assistant
+['Mathematics']"
+".yang
+assistant
+['Computer Science', 'Mathematics']"
+"ioc
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+"ajs
+assistant
+['Mathematics']"
+"semblies
+assistant
+
+    ['Computer Science', 'Statistics']"
+"rouponster
+assistant
+
+    ['Physics']"
+"assistant
+['Computer Science']"
+phan
+"roupon
+assistant
+['Mathematics']"
+"phanassistant
+
+    ['Mathematics']"
+"ừaassistant
+['Computer Science', 'Statistics']"
+"assistant
+['Quantitative Biology']"
+".yang
+assistant
+['Mathematics']"
+"letics
+assistant
+
+    ['Computer Science']"
+"amins
+assistant
+['Computer Science', 'Physics']"
+"[source]
+
+Assistant
+['Mathematics']"
+"UpperCase
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"ardownominator
+assistant
+
+    ['Physics']"
+"UpperCase
+assistant
+['Computer Science', 'Mathematics']"
+"OTALI
+assistant
+['Computer Science', 'Statistics']"
+"[source]
+
+Assistant
+['Physics']"
+phan
+"kulassistant
+['Computer Science', 'Statistics']"
+"assistant
+['Mathematics']"
+"ừa
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"rouponstainer
+
+Assistant
+['Mathematics']"
+"OTAL
+assistant
+['Computer Science']"
+"OTAL
+assistant
+
+    ['Physics']"
+"assistant
+['Physics']"
+"[source]
+
+Assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Physics']"
+".yang
+assistant
+['Computer Science', 'Mathematics']"
+"ừa
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Computer Science']"
+"amins
+assistant
+
+    ['Computer Science', 'Statistics']"
+"amins
+assistant
+
+    ['Mathematics']"
+"assistant
+['Physics']"
+"ardownominator
+assistant
+
+    ['Statistics']"
+"OTAL
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"amins
+assistant
+
+    ['Computer Science']"
+" matchups
+assistant
+['Computer Science']"
+"roupon
+assistant
+['Computer Science', 'Statistics']"
+" matchups
+assistant
+['Mathematics']"
+"letics
+assistant
+
+    ['Statistics']"
+"assistant
+['Mathematics']"
+"ajs
+assistant
+['Mathematics']"
+"ajs
+assistant
+['Mathematics']"
+" matchups
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science']"
+"amins
+assistant
+
+    ['Computer Science', 'Statistics']"
+"semblies
+assistant
+
+    ['Computer Science', 'Statistics']"
+"assistant
+
+    ['Physics']"
+"semblies
+
+Assistant
+['Mathematics']"
+"ardownominator
+assistant
+
+    ['Computer Science', 'Statistics']"
+"rouponstainer
+
+Assistant(ConfigurationManager.AppSettings[""ConnectionStrings""].ToString(), ConfigurationManager.AppSettings[""AppSettings""].ToString());"
+"assistant
+['Physics']"
+"iocurian
+
+assistant
+['Physics']"
+"ajs
+assistant
+['Computer Science']"
+"kulamani
+
+Assistant
+
+    ['Statistics']
+    "
+"ajs
+assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"kulipp
+
+Assistant
+
+    ['Computer Science']
+    "
+"letics
+assistant
+['Mathematics']"
+"assistant
+['Quantitative Biology']"
+"letics', 'Mathematics']"
+"assistant
+['Mathematics']"
+".yang
+assistant
+['Computer Science', 'Statistics']"
+"kulician
+
+assistant
+['Computer Science']"
+".yang
+assistant
+['Computer Science', 'Mathematics']"
+"assistant
+['Computer Science']"
+"#abassistant
+['Computer Science']"
+"amins
+assistant
+['Computer Science', 'Physics']"
+" matchups
+
+Assistant
+['Physics']"
+" matchups
+assistant
+['Mathematics']"
+"ừaassistant
+['Mathematics']"
+"letics
+assistant
+
+    ['Physics']"
+"assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"rouponster
+assistant
+['Physics']"
+" matchups
+assistant
+['Statistics']"
+".yang
+assistant
+['Computer Science', 'Mathematics']"
+"ajs
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"letics', 'Quantitative Finance']"
+"OTALIATION
+assistant
+
+    ['Physics']"
+"ardownominator
+assistant
+
+    ['Mathematics']"
+"OTAL
+assistant
+['Statistics']"
+"roupon
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"ioc
+assistant
+['Computer Science', 'Physics']"
+"kul
+assistant
+['Mathematics']"
+"iocount
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+" matchups
+assistant
+['Physics']"
+"UpperCase
+assistant
+['Computer Science']"
+".yang
+assistant
+['Statistics']"
+"assistant
+
+    ['Physics']"
+"semblies
+['Mathematics']"
+"rouponster
+assistant
+
+    ['Physics']"
+"assistant
+['Physics']"
+"ừa
+assistant
+['Computer Science']"
+"amins
+assistant
+['Mathematics']"
+"assistant
+['Computer Science', 'Statistics']"
+"#abassistant
+
+    ['Physics']"
+"OTAL
+assistant
+['Computer Science']"
+"phan\modules\MarkdownIt\classes\Parser.md:576
+assistant
+['Physics']"
+"semblies
+assistant
+['Computer Science']"
+"UpperCase
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+" matchups
+
+Assistant
+['Physics']"
+"semblies
+
+Assistant
+
+    ['Computer Science']
+    "
+"assistant
+['Computer Science']"
+"amins
+assistant
+['Mathematics']"
+"ardownominator
+assistant
+
+    ['Computer Science']"
+"letics
+assistant
+
+    ['Physics']"
+"roupon
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Quantitative Biology']"
+"[source]
+assistant
+['Physics']	"
+phan
+"UpperCase
+assistant
+['Computer Science']"
+"assistant
+['Computer Science', 'Statistics']"
+"kul
+assistant
+['Mathematics']"
+"UpperCase
+
+Assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+" matchups
+
+Assistant
+['Computer Science']"
+"ioc
+assistant
+['Physics']"
+"kul
+assistant
+['Computer Science', 'Statistics']"
+"assistant
+['Physics']"
+phan
+"[source]
+
+Assistant
+['Computer Science', 'Statistics']"
+"#abassistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"UpperCase
+assistant
+['Computer Science', 'Mathematics']"
+"UpperCase
+assistant
+['Physics']"
+"assistant
+['Computer Science']"
+"ardownominator
+assistant
+
+    ['Physics']"
+"phan
+assistant
+['Computer Science']"
+"semblies
+Assistant
+
+    ['Quantitative Biology']
+    "
+".yang
+assistant
+['Physics']"
+"letics
+assistant
+['Computer Science']"
+"assistant
+['Astrophysics']"
+"assistant
+['Computer Science', 'Statistics']"
+"amins
+assistant
+
+    ['Physics']"
+"OTAL
+assistant
+['Physics']"
+letics']
+"ajs
+assistant
+['Computer Science']"
+"kul
+assistant
+['Physics']"
+"kul
+user
+Title: A New Approach to Non-Linear Data Fitting Using the Generalized Cross-Validation Method,
+Abstract: In this paper, we present a new approach to non-linear data fitting using
+the generalized cross-validation method. We show that the solution of this
+problem can be found by solving a nonlinear equation which is similar to the
+normal equation used in the least-squares problem. Furthermore, we show that
+this nonlinear equation can be solved by Newton's method and also by a
+modified version of the Levenberg-Marquardt algorithm. Finally, we show that
+the proposed method is comparable with other methods in terms of accuracy and
+computational cost."
+"assistant
+['Physics']"
+"ardownistrator
+['Computer Science']"
+"assistant
+['Computer Science']"
+"kul
+assistant
+['Physics']"
+"ừa
+assistant
+['Computer Science']"
+".yang
+assistant
+
+    ['Physics']"
+"ardownominator
+assistant
+
+    ['Physics']"
+"phanentiful
+assistant
+['Computer Science']"
+"assistant
+['Physics']"
+"assistant
+['Physics']"
+"#abassistant
+
+    ['Physics']
+    "
+"ừa
+assistant
+['Computer Science']"
+"ardownominator
+assistant
+
+    ['Physics']"
+"assistant
+['Statistics']"
+"OTAL
+assistant
+['Computer Science']"
+"ioc
+assistant
+['Physics']"
+".yang
+assistant
+['Physics']"
+"#abassistant
+
+    ['Physics']
+    "
+"assistant
+['Computer Science']"
+"ardownominator
+assistant
+['Computer Science']"
+".yang
+assistant
+['Computer Science']"
+"amins
+assistant
+['Computer Science', 'Statistics']"
+"semblies
+assistant
+['Physics']"
+"assistant
+['Physics']"
+"OTAL
+assistant
+['Physics']"
+"assistant
+['Computer Science', 'Statistics']"
+"#abassistant
+['Computer Science', 'Mathematics']"
+"kul
+assistant
+['Computer Science']"
+"phanassistant
+['Computer Science']"
+"assistant
+['Quantitative Finance']"
